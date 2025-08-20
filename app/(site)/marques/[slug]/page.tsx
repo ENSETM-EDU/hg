@@ -7,9 +7,9 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 interface BrandPageProps {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
 
 export async function generateStaticParams() {
@@ -20,7 +20,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: BrandPageProps): Promise<Metadata> {
-  const brand = await getBrand(params.slug);
+  const { slug } = await params;
+  const brand = await getBrand(slug);
   
   if (!brand) {
     return {
@@ -35,10 +36,11 @@ export async function generateMetadata({ params }: BrandPageProps): Promise<Meta
 }
 
 export default async function BrandPage({ params }: BrandPageProps) {
+  const { slug } = await params;
   const [brand, products, categories] = await Promise.all([
-    getBrand(params.slug),
-    getProductsByBrand(params.slug),
-    getCategoriesForBrand(params.slug),
+    getBrand(slug),
+    getProductsByBrand(slug),
+    getCategoriesForBrand(slug),
   ]);
 
   if (!brand) {

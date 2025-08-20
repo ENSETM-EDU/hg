@@ -5,9 +5,9 @@ import EmptyState from '../../../../components/EmptyState';
 import { Metadata } from 'next';
 
 interface CategoryPageProps {
-  params: {
+  params: Promise<{
     category: string;
-  };
+  }>;
 }
 
 export async function generateStaticParams() {
@@ -18,7 +18,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
-  const category = await getCategory(params.category);
+  const { category: categorySlug } = await params;
+  const category = await getCategory(categorySlug);
   
   if (!category) {
     return {
@@ -33,9 +34,10 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
 }
 
 export default async function CategoryPage({ params }: CategoryPageProps) {
+  const { category: categorySlug } = await params;
   const [category, products, brands] = await Promise.all([
-    getCategory(params.category),
-    getProductsByCategory(params.category),
+    getCategory(categorySlug),
+    getProductsByCategory(categorySlug),
     getBrands(),
   ]);
 
