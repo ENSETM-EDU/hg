@@ -1,0 +1,13 @@
+{
+  "hero": [
+    { "type": "brand", "slug": "yale" },
+    { "type": "brand", "slug": "tesa" },
+    { "type": "brand", "slug": "saheco" }
+  ],
+  "featuredBrands": ["yale", "tesa", "saheco", "dormakaba", "geze"],
+  "featuredCategories": ["poignees", "serrures", "coulissant"],
+  "news": [
+    { "title": "Nouveau catalogue 2025", "date": "2025-07-01", "href": "/catalogues" },
+    { "title": "Gamme AR disponible", "date": "2025-06-15", "href": "/ar" }
+  ]
+}

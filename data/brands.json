@@ -1,0 +1,23 @@
+[
+  { "slug": "yale", "name": "YALE", "logo": "/brands/YALE.svg", "website": "https://yale.com", "description": "Leader mondial en sécurité et serrurerie" },
+  { "slug": "tesa", "name": "TESA", "logo": "/brands/TESA.svg", "website": "https://tesa.com", "description": "Solutions de contrôle d'accès innovantes" },
+  { "slug": "saheco", "name": "SAHECO", "logo": "/brands/SAHECO.svg", "website": "https://saheco.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "3 stars", "name": "3 STARS", "logo": "/brands/3_STARS.svg", "website": "https://3-stars.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "3F", "name": "3F", "logo": "/brands/3F.svg", "website": "https://3f.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "ceam", "name": "CEAM", "logo": "/brands/CEAM.svg", "website": "https://ceam.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "inther", "name": "INTHER", "logo": "/brands/INTHER.svg", "website": "https://inther.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "janus", "name": "JANUS", "logo": "/brands/JANUS.svg", "website": "https://janus.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "jis", "name": "JIS", "logo": "/brands/JIS.svg", "website": "https://jis.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "kale kilit", "name": "KALE KILIT", "logo": "/brands/KALE_KILIT.svg", "website": "https://kale.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "metra", "name": "METRA", "logo": "/brands/METRA.svg", "website": "https://metra.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "nobel", "name": "NOBEL", "logo": "/brands/NOBEL.svg", "website": "https://nobel.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "omni", "name": "OMNI", "logo": "/brands/OMNI.svg", "website": "https://omni.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "ozen", "name": "OZEN", "logo": "/brands/OZEN.svg", "website": "https://ozen.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "profiles alu", "name": "PROFILES ALU", "logo": "/brands/PROFILES_ALU.svg", "website": "https://profilesalu.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "quimo", "name": "QUIMO", "logo": "/brands/QUIMO.svg", "website": "https://quimo.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "roper", "name": "ROPER", "logo": "/brands/ROPER.svg", "website": "https://roper.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "samet", "name": "SAMET", "logo": "/brands/SAMET.svg", "website": "https://samet.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "steely", "name": "STEELY", "logo": "/brands/STEELY.svg", "website": "https://steely.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "tayg", "name": "TAYG", "logo": "/brands/TAYG.svg", "website": "https://tayg.com", "description": "Systèmes coulissants haut de gamme" },
+  { "slug": "vetra", "name": "VETRA", "logo": "/brands/VETRA.svg", "website": "https://vetra.com", "description": "Systèmes coulissants haut de gamme" }
+]
