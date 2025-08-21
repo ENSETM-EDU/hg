@@ -23,64 +23,12 @@ function ResultsContent() {
     async function loadProducts() {
       setLoading(true);
       try {
-        // Since we can't make server calls in static export, 
-        // we'll need to load the products data differently
-        // For now, let's use the sample products from the initial data
-        const sampleProducts: Product[] = [
-          {
-            slug: "poignee-elite-1",
-            name: "Poignée Elite Série 1",
-            brand: "yale",
-            category: "poignees",
-            description: "Poignée haute sécurité pour porte d'entrée",
-            reference: "ELT-001",
-            images: ["/products/poignee-elite-1.jpg"],
-            specs: {
-              "finition": "Acier inoxydable",
-              "garantie": "15 ans"
-            },
-            tags: ["porte", "interieur", "moderne", "securite"],
-            ar: undefined
-          },
-          {
-            slug: "serrure-multipoint-securite",
-            name: "Serrure Multipoint Sécurité",
-            brand: "yale",
-            category: "serrures",
-            description: "Serrure multipoint haute sécurité avec cylindre européen",
-            reference: "MPS-2024",
-            images: ["/products/serrure-multipoint.jpg"],
-            specs: {
-              "entraxe": "70 mm",
-              "cylindre": "Européen",
-              "points": "5 points"
-            },
-            tags: ["exterieur", "securite", "multipoint"],
-            ar: {
-              model: "/models/serrure-multipoint.usdz",
-              type: "usdz"
-            }
-          },
-          {
-            slug: "cylindre-euro-pro",
-            name: "Cylindre Européen Pro",
-            brand: "yale",
-            category: "cylindres",
-            description: "Cylindre européen haute sécurité avec protection anti-casse",
-            reference: "CEP-300",
-            images: ["/products/cylindre-euro.jpg"],
-            specs: {
-              "dimension": "30x30mm",
-              "cles": "5 clés",
-              "protection": "Anti-casse"
-            },
-            tags: ["securite", "protection", "exterieur"],
-            ar: undefined
-          }
-        ];
+        // Load products data from JSON file
+        const response = await fetch('/data/products.json');
+        const allProducts: Product[] = await response.json();
         
         // Filter products using the function
-        const filteredProducts = queryProducts(sampleProducts, {
+        const filteredProducts = queryProducts(allProducts, {
           category,
           tags: tags.length > 0 ? tags : undefined,
           specs: Object.keys(specs).length > 0 ? specs : undefined,
