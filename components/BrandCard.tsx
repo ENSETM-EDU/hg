@@ -11,10 +11,10 @@ interface BrandCardProps {
 
 export default function BrandCard({ brand, showDescription = false }: BrandCardProps) {
   return (
-    <Card className="group hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
-      <CardContent className="p-6">
-        <div className="flex flex-col items-center text-center space-y-4">
-          <div className="w-full h-32 flex items-center justify-center bg-gray-50 rounded-lg p-6">
+    <Card className="group hover:shadow-lg transition-all duration-300 hover:-translate-y-1 h-80">
+      <CardContent className="p-6 h-full">
+        <div className="flex flex-col items-center text-center h-full">
+          <div className="w-full h-32 flex items-center justify-center bg-gray-50 rounded-lg p-6 mb-4">
             <div className="relative w-full h-full">
               {brand.logo ? (
                 <Image
@@ -32,33 +32,39 @@ export default function BrandCard({ brand, showDescription = false }: BrandCardP
             </div>
           </div>
           
-          <div className="space-y-2">
-            <h3 className="font-semibold text-lg group-hover:text-hava-primary transition-colors">
-              {brand.name}
-            </h3>
-            {showDescription && brand.description && (
-              <p className="text-gray-600 text-sm">{brand.description}</p>
-            )}
-          </div>
+          <div className="flex-1 flex flex-col justify-between w-full">
+            <div className="space-y-2 mb-4">
+              <h3 className="font-semibold text-lg group-hover:text-hava-primary transition-colors">
+                {brand.name}
+              </h3>
+              <div className="h-10 flex items-start">
+                {showDescription && brand.description && (
+                  <p className="text-gray-600 text-sm line-clamp-2 overflow-hidden">
+                    {brand.description}
+                  </p>
+                )}
+              </div>
+            </div>
 
-          <div className="flex space-x-2">
-            <Link 
-              href={`/marques/${brand.slug}`}
-              className="bg-hava-primary text-white px-3 py-1.5 rounded-md text-xs font-medium hover:bg-hava-primary-dark transition-colors"
-            >
-              Voir les produits
-            </Link>
-            {brand.website && (
-              <a
-                href={brand.website}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="border border-gray-300 text-gray-700 px-3 py-1.5 rounded-md text-xs font-medium hover:bg-gray-50 transition-colors inline-flex items-center space-x-1"
+            <div className="flex space-x-2 justify-center">
+              <Link 
+                href={`/marques/${brand.slug}`}
+                className="bg-hava-primary text-white px-3 py-1.5 rounded-md text-xs font-medium hover:bg-hava-primary-dark transition-colors"
               >
-                <ExternalLink className="w-3 h-3" />
-                <span>Site web</span>
-              </a>
-            )}
+                Voir les produits
+              </Link>
+              {brand.website && (
+                <a
+                  href={brand.website}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="border border-gray-300 text-gray-700 px-3 py-1.5 rounded-md text-xs font-medium hover:bg-gray-50 transition-colors inline-flex items-center space-x-1"
+                >
+                  <ExternalLink className="w-3 h-3" />
+                  <span>Site web</span>
+                </a>
+              )}
+            </div>
           </div>
         </div>
       </CardContent>

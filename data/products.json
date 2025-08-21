@@ -19,6 +19,7 @@
       "Entraxe": "72 mm",
       "Poids": "450 g"
     },
+    "tags": ["porte", "interieur", "design", "bureau"],
     "ar": { "model": "/models/poignee-elite.glb", "type": "webxr" }
   },
   {
@@ -36,8 +37,10 @@
       "Axe": "40 / 50 mm",
       "Finition": "Zingué brossé",
       "Points de fermeture": "3",
-      "Certification": "A2P**"
-    }
+      "Certification": "A2P**",
+      "entraxe": "70 mm"
+    },
+    "tags": ["serrure", "haute-securite", "mortaiser"]
   },
   {
     "slug": "cylindre-tesa-tx80",
@@ -52,7 +55,8 @@
       "Clés": "3 clés fournies",
       "Sécurité": "Grade 6",
       "Matériau": "Laiton nickelé"
-    }
+    },
+    "tags": ["cylindre", "haute-securite", "europeen"]
   },
   {
     "slug": "rail-saheco-sf40",

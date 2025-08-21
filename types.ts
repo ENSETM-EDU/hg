@@ -32,6 +32,7 @@ export interface Product {
   images?: string[];
   downloads?: Download[];
   specs?: Record<string, string | number | boolean>;
+  tags?: string[];
   ar?: AR;
 }
 
@@ -86,4 +87,35 @@ export interface Pages {
     address?: string;
     mapUrl?: string;
   };
+}
+
+// Smart Find types
+export interface Hotspot {
+  id: string;
+  title: string;
+  shape: "rect" | "circle";
+  coordsPct: number[]; // rect: [x,y,w,h], circle: [cx,cy,r] all in %
+  filters: { 
+    category?: string; 
+    tags?: string[]; 
+    specs?: Record<string,string> 
+  };
+}
+
+export interface Scene {
+  slug: string; 
+  name: string;
+  svg: string; // /smartfind/*.svg in /public
+  hotspots: Hotspot[];
+}
+
+export interface Sector {
+  slug: string; 
+  name: string; 
+  icon?: string;
+  scenes: Scene[];
+}
+
+export interface SmartFindConfig { 
+  sectors: Sector[] 
 }

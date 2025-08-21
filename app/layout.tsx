@@ -22,6 +22,11 @@ export async function generateMetadata(): Promise<Metadata> {
     description: 'Distributeur professionnel B2B de solutions de quincaillerie, serrurerie et automatismes. Marques européennes premium pour installateurs, architectes et entreprises.',
     keywords: ['quincaillerie', 'serrurerie', 'B2B', 'professionnel', 'distributeur', 'Maroc', 'automatismes'],
     authors: [{ name: 'Hava Groupe' }],
+    icons: {
+      icon: '/hava_logo2.png',
+      shortcut: '/hava_logo2.png',
+      apple: '/hava_logo2.png',
+    },
     openGraph: {
       title: `${settings.siteName} - Distributeur B2B`,
       description: 'Solutions professionnelles de quincaillerie et serrurerie',
