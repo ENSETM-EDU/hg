@@ -9,6 +9,7 @@ export interface Brand {
 export interface Category {
   slug: string;
   name: string;
+  icon?: string;
 }
 
 export interface Download {
