@@ -83,14 +83,14 @@ export default function HeroCarousel({ items }: HeroCarouselProps) {
 
             {/* Image display */}
             <div className="relative">
-              <div className="aspect-square bg-white/10 rounded-lg backdrop-blur-sm flex items-center justify-center overflow-hidden">
+              <div className="aspect-square bg-white rounded-lg flex items-center justify-center overflow-hidden">
                 {currentItem.type === 'brand' && currentItem.logo ? (
-                  <div className="relative w-64 h-64">
+                  <div className="relative w-full h-full">
                     <Image 
-                      src={currentItem.logo} 
+                      src={currentItem.logo}
                       alt={`${currentItem.title} logo`}
                       fill
-                      className="object-contain filter brightness-0 invert"
+                      className="object-contain"
                     />
                   </div>
                 ) : currentItem.type === 'product' && currentItem.images && currentItem.images.length > 0 ? (

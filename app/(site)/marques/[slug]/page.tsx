@@ -61,9 +61,17 @@ export default async function BrandPage({ params }: BrandPageProps) {
           <div className="flex flex-col md:flex-row items-center md:items-start space-y-6 md:space-y-0 md:space-x-8">
             {/* Brand Logo */}
             <div className="w-32 h-32 bg-gray-100 rounded-lg flex items-center justify-center p-4">
-              <div className="w-full h-full bg-gray-200 rounded flex items-center justify-center text-gray-500">
-                {brand.name}
-              </div>
+              {brand.logo ? (
+                <img
+                  src={brand.logo}
+                  alt={`Logo ${brand.name}`}
+                  className="w-full h-full object-contain rounded"
+                />
+              ) : (
+                <div className="w-full h-full bg-gray-200 rounded flex items-center justify-center text-gray-500 text-sm text-center">
+                  {brand.name}
+                </div>
+              )}
             </div>
             
             {/* Brand Info */}
