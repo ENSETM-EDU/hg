@@ -1,6 +1,6 @@
 import { promises as fs } from 'fs';
 import path from 'path';
-import { Brand, Category, Product, Home, Settings, Catalogs, Pages, SmartFindConfig } from '../types';
+import { Brand, Category, Product, Home, Settings, Catalogs, Pages } from '../types';
 
 const dataDir = path.join(process.cwd(), 'data');
 
@@ -117,8 +117,4 @@ export async function getProductCountByCategory(): Promise<Record<string, number
   });
   
   return counts;
-}
-
-export async function getSmartFind(): Promise<SmartFindConfig> {
-  return loadJSON<SmartFindConfig>('smartfind.json');
 }
