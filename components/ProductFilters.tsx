@@ -202,7 +202,7 @@ export default function ProductFilters({
               <SelectContent>
                 <SelectItem value="all">Toutes les marques</SelectItem>
                 {brands.map((brand) => (
-                  <SelectItem key={brand.slug} value={brand.slug}>
+                  <SelectItem key={brand.slug} value={brand.name}>
                     {brand.name}
                   </SelectItem>
                 ))}
@@ -294,7 +294,7 @@ export default function ProductFilters({
             
             {filters.brand && (
               <Badge variant="secondary" className="flex items-center gap-1">
-                {brands.find(b => b.slug === filters.brand)?.name}
+                {brands.find(b => b.name === filters.brand)?.name || filters.brand}
                 <button onClick={() => clearFilter('brand')}>
                   <X className="w-3 h-3" />
                 </button>

@@ -160,6 +160,8 @@ export default function CategoryClientPage({
 
   const breadcrumbItems = [
     { label: 'Produits', href: '/produits' },
+    ...(filters.brand ? [{ label: 'Marques', href: '/marques' }] : []),
+    ...(filters.brand ? [{ label: filters.brand, href: `/marques/${brands.find(b => b.name === filters.brand)?.slug || ''}` }] : []),
     { label: category.name }
   ];
 
@@ -188,9 +190,16 @@ export default function CategoryClientPage({
         <div className="mb-8">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-3xl font-bold text-gray-900">{category.name}</h1>
+              <h1 className="text-3xl font-bold text-gray-900">
+                {filters.brand ? `${category.name} ${filters.brand}` : category.name}
+              </h1>
               {category.description && (
-                <p className="text-lg text-gray-600 mt-2">{category.description}</p>
+                <p className="text-lg text-gray-600 mt-2">
+                  {filters.brand ? 
+                    `Découvrez tous les produits ${category.name.toLowerCase()} de la marque ${filters.brand}` :
+                    category.description
+                  }
+                </p>
               )}
             </div>
             

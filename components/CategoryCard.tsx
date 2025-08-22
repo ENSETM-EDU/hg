@@ -26,19 +26,17 @@ export default function CategoryCard({
         <Card className="group hover:shadow-md transition-all duration-200 hover:border-hava-primary/20">
           <CardContent className="p-4">
             <div className="flex items-center space-x-3">
-              <div className="w-10 h-10 bg-hava-primary/10 rounded-lg flex items-center justify-center group-hover:bg-hava-primary transition-colors">
+              <div className="w-16 h-16 bg-hava-primary/10 rounded-lg flex items-center justify-center group-hover:bg-hava-primary transition-colors overflow-hidden">
                 {category.icon ? (
-                  <div className="w-5 h-5 text-hava-primary group-hover:text-white transition-colors">
-                    <Image 
-                      src={category.icon} 
-                      alt={category.name}
-                      width={20}
-                      height={20}
-                      className="w-full h-full"
-                    />
-                  </div>
+                  <Image 
+                    src={category.icon} 
+                    alt={category.name}
+                    width={48}
+                    height={48}
+                    className="w-12 h-12 object-cover rounded"
+                  />
                 ) : (
-                  <Package className="w-5 h-5 text-hava-primary group-hover:text-white" />
+                  <Package className="w-8 h-8 text-hava-primary group-hover:text-white" />
                 )}
               </div>
               
@@ -68,19 +66,17 @@ export default function CategoryCard({
           {/* Header */}
           <Link href={`/produits/${category.slug}`} className="flex-1">
             <div className="flex flex-col items-center text-center space-y-4">
-              <div className="w-16 h-16 bg-hava-primary/10 rounded-full flex items-center justify-center group-hover:bg-hava-primary transition-colors">
+              <div className="w-24 h-24 bg-hava-primary/10 rounded-full flex items-center justify-center group-hover:bg-hava-primary transition-colors overflow-hidden">
                 {category.icon ? (
-                  <div className="w-8 h-8 text-hava-primary group-hover:text-white transition-colors">
-                    <Image 
-                      src={category.icon} 
-                      alt={category.name}
-                      width={32}
-                      height={32}
-                      className="w-full h-full"
-                    />
-                  </div>
+                  <Image 
+                    src={category.icon} 
+                    alt={category.name}
+                    width={80}
+                    height={80}
+                    className="w-20 h-20 object-cover rounded-full"
+                  />
                 ) : (
-                  <Package className="w-8 h-8 text-hava-primary group-hover:text-white" />
+                  <Package className="w-12 h-12 text-hava-primary group-hover:text-white" />
                 )}
               </div>
               

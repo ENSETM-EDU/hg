@@ -117,7 +117,7 @@ export default async function BrandPage({ params }: BrandPageProps) {
                     {category.name}
                   </h2>
                   <Link 
-                    href={`/produits/${category.slug}`}
+                    href={`/produits/${category.slug}?brand=${encodeURIComponent(brand.name)}`}
                     className="text-hava-primary hover:underline text-sm font-medium"
                   >
                     Voir tous les {category.name.toLowerCase()}

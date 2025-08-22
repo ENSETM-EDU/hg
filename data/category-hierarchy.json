@@ -2,7 +2,7 @@
   {
     "slug": "serrures",
     "name": "Serrures",
-    "icon": "/categories/serrures.svg",
+    "icon": "/categories/serrure.webp",
     "description": "Tous les produits de serrures",
     "subcategories": [
       {
@@ -98,7 +98,7 @@
   {
     "slug": "cylindres",
     "name": "Cylindres",
-    "icon": "/categories/cylindres.svg",
+    "icon": "/categories/cylindres.jpg",
     "description": "Tous les produits de cylindres",
     "subcategories": [
       {
@@ -130,7 +130,7 @@
   {
     "slug": "poignees",
     "name": "Poignées",
-    "icon": "/categories/poignees.svg",
+    "icon": "/categories/poignees.jpg",
     "description": "Tous les produits de poignées",
     "subcategories": [
       {
@@ -174,7 +174,7 @@
   {
     "slug": "ferme-portes",
     "name": "Ferme-portes",
-    "icon": "/categories/ferme-portes.svg",
+    "icon": "/categories/ferme-portes.jpeg",
     "description": "Tous les produits de ferme-portes",
     "subcategories": [
       {
@@ -198,7 +198,7 @@
   {
     "slug": "coulissant",
     "name": "Systèmes coulissants",
-    "icon": "/categories/coulissant.svg",
+    "icon": "/categories/coulissant.jpg",
     "description": "Tous les produits de systèmes coulissants",
     "subcategories": [
       {
@@ -254,7 +254,7 @@
   {
     "slug": "automatismes",
     "name": "Automatismes",
-    "icon": "/categories/automatismes.svg",
+    "icon": "/categories/automatismes.jpg",
     "description": "Tous les produits de automatismes",
     "subcategories": [
       {
@@ -290,7 +290,7 @@
   {
     "slug": "accessoires",
     "name": "Accessoires",
-    "icon": "/categories/accessoires.svg",
+    "icon": "/categories/accessoires.jpg",
     "description": "Tous les produits de accessoires",
     "subcategories": [
       {
@@ -363,6 +363,7 @@
     "slug": "antipanique",
     "name": "Antipanique",
     "description": "Tous les produits de antipanique",
+    "icon": "/categories/antipanique.png",
     "subcategories": [
       {
         "name": "Antipanique en applique 2 points",
@@ -406,6 +407,7 @@
     "slug": "cadenas",
     "name": "Cadenas",
     "description": "Tous les produits de cadenas",
+    "icon": "/categories/cadenas.avif",
     "subcategories": [
       {
         "name": "Cadenas",
@@ -457,6 +459,7 @@
     "slug": "quincaillerie-meuble",
     "name": "Quincaillerie de meuble",
     "description": "Tous les produits de quincaillerie de meuble",
+    "icon": "/categories/quincaillerie-meuble.jpg",
     "subcategories": [
       {
         "name": "Coulisses à billes",
@@ -540,6 +543,7 @@
     "slug": "amenagement-interieur",
     "name": "Aménagement intérieur",
     "description": "Tous les produits de aménagement intérieur",
+    "icon": "/categories/amenagement-interieur.jpeg",
     "subcategories": [
       {
         "name": "Coin cuisine (plateaux d'angle)",
@@ -731,6 +735,7 @@
     "slug": "profiles-aluminium",
     "name": "Profilés aluminium",
     "description": "Tous les produits de profilés aluminium",
+    "icon": "/categories/profiles-aluminium.jpg",
     "subcategories": [
       {
         "name": "Profiles en Aluminium",
@@ -750,6 +755,7 @@
     "slug": "coffres-forts",
     "name": "Coffres forts",
     "description": "Tous les produits de coffres forts",
+    "icon": "/categories/coffres-forts.png",
     "subcategories": [
       {
         "name": "Coffres forts",
