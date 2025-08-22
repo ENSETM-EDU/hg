@@ -1,0 +1,180 @@
+[
+  {
+    "brand": "JIS",
+    "name": "1720-907X",
+    "category": "Gâches électriques",
+    "attributes": {
+      "tetiere": "Inox",
+      "reversible": true,
+      "reglage_lateral": "Languette de verrouillage réglable ±5 mm",
+      "bobine": "Standard 12/24V AC/DC",
+      "note": "Standard"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "1711-907X",
+    "category": "Gâches électriques",
+    "attributes": {
+      "tetiere": "Inox",
+      "reversible": true,
+      "reglage_lateral": "Languette de verrouillage réglable ±5 mm",
+      "bobine": "Standard 12/24V AC/DC",
+      "etat": "À rupture"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "1720-900X",
+    "category": "Gâches électriques",
+    "attributes": {
+      "tetiere": "Inox (courte)",
+      "reversible": true,
+      "reglage_lateral": "Languette de verrouillage réglable ±5 mm",
+      "bobine": "Standard 12/24V AC/DC",
+      "note": "Têtière courte"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "6916",
+    "category": "Accessoires serrure électrique",
+    "attributes": {
+      "application": "En applique",
+      "longueur": "300 mm",
+      "finition": "Chromé"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "6918",
+    "category": "Accessoires serrure électrique",
+    "attributes": {
+      "application": "Encastré",
+      "longueur": "270 mm",
+      "finition": "Chromé"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "1913 D/G",
+    "category": "Serrure électrique",
+    "attributes": {
+      "voltage": "12V AC",
+      "sens": "Droite / Gauche",
+      "cles": "Spéciales x5"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "1804",
+    "category": "Ventouses électromagnétiques (arrêt de porte)",
+    "attributes": {
+      "dimensions": "91 x 70 x 42.5 mm",
+      "force": "50 N",
+      "voltage": "12/24V DC",
+      "pose": "Mural"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "C3M11",
+    "category": "Ventouses électromagnétiques",
+    "attributes": {
+      "dimensions": "202 x 34.5 x 21.8 mm",
+      "force": "3000 N / 300 kg",
+      "voltage": "12/24V DC",
+      "pose": "Encastré"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "V1SR",
+    "category": "Ventouses électromagnétiques",
+    "attributes": {
+      "dimensions": "166 x 39 x 21.5 mm",
+      "force": "1800 N / 180 kg",
+      "voltage": "12/24V DC",
+      "pose": "En applique"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "C3S11",
+    "category": "Ventouses électromagnétiques",
+    "attributes": {
+      "dimensions": "250 x 43 x 27 mm",
+      "force": "3000 N / 300 kg",
+      "voltage": "12/24V DC",
+      "pose": "En applique"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "BRACKET_L RÉGLABLE",
+    "category": "Accessoires de fixation",
+    "attributes": {},
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "BRACKET_Z RÉGLABLE",
+    "category": "Accessoires de fixation",
+    "attributes": {},
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "BRACKET_U RÉGLABLE",
+    "category": "Accessoires de fixation",
+    "attributes": {},
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JIS",
+    "name": "DIGIWAY PLUS",
+    "category": "Opérateur de porte battante",
+    "attributes": {
+      "norme": "EN16005",
+      "PMR": "Adapté aux personnes à mobilité réduite",
+      "poids_max_porte": "120 kg",
+      "emetteur_programmation": "Inclus",
+      "angle_ouverture_max": "110°",
+      "largeur_max_porte": "1200 mm",
+      "recepteur_radio": "Intégré",
+      "alimentation": "230V",
+      "notes": [
+        "Écran LCD et réglage pas à pas",
+        "Pad intégré pour programmation",
+        "Encodeur indiquant la position de la porte",
+        "Programmation possible via application (module Bluetooth optionnel)"
+      ],
+      "extensions_bras": "30 / 50 / 80 mm (options)"
+    },
+    "images": [],
+    "3d_images": []
+  }
+]

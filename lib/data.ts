@@ -28,7 +28,7 @@ export async function getBrands(): Promise<Brand[]> {
 }
 
 export async function getProducts(): Promise<Product[]> {
-  return loadJSON<Product[]>('products.json');
+  return loadJSON<Product[]>('all-products-with-hierarchy.json');
 }
 
 export async function getCatalogs(): Promise<Catalogs> {
@@ -41,15 +41,26 @@ export async function getPages(): Promise<Pages> {
 
 export async function getCategories(): Promise<Category[]> {
   try {
-    // Try to load from categories.json first
-    return await loadJSON<Category[]>('categories.json');
+    // Load hierarchical categories
+    const hierarchicalCategories = await loadJSON<any[]>('category-hierarchy.json');
+    return hierarchicalCategories.map(cat => ({
+      slug: cat.slug,
+      name: cat.name,
+      icon: cat.icon,
+      description: cat.description,
+      subcategories: cat.subcategories
+    }));
   } catch {
-    // If categories.json doesn't exist, derive from products
+    // Fallback to old method if file doesn't exist
     const products = await getProducts();
     const categorySet = new Set<string>();
     
     products.forEach(product => {
-      categorySet.add(product.category);
+      if (product.categoryHierarchy?.root) {
+        categorySet.add(product.categoryHierarchy.root);
+      } else {
+        categorySet.add(product.category);
+      }
     });
 
     return Array.from(categorySet).map(slug => ({
@@ -68,12 +79,31 @@ export function toTitle(slug: string): string {
 
 export async function getProductsByCategory(categorySlug: string): Promise<Product[]> {
   const products = await getProducts();
-  return products.filter(product => product.category === categorySlug);
+  return products.filter(product => {
+    // Check if it matches the root category (hierarchical) or the original category
+    return product.categoryHierarchy?.root === categorySlug || 
+           product.category === categorySlug;
+  });
+}
+
+export async function getProductsBySubcategory(subcategorySlug: string): Promise<Product[]> {
+  const products = await getProducts();
+  return products.filter(product => product.category === subcategorySlug);
 }
 
 export async function getProductsByBrand(brandSlug: string): Promise<Product[]> {
   const products = await getProducts();
-  return products.filter(product => product.brand === brandSlug);
+  const brands = await getBrands();
+  
+  // Decode URL-encoded slug to handle spaces and special characters
+  const decodedSlug = decodeURIComponent(brandSlug);
+  
+  // Find the brand by slug
+  const brand = brands.find(b => b.slug === decodedSlug);
+  if (!brand) return [];
+  
+  // Filter products by brand name (products reference brand by name, not slug)
+  return products.filter(product => product.brand === brand.name);
 }
 
 export async function getProduct(slug: string): Promise<Product | null> {
@@ -83,7 +113,9 @@ export async function getProduct(slug: string): Promise<Product | null> {
 
 export async function getBrand(slug: string): Promise<Brand | null> {
   const brands = await getBrands();
-  return brands.find(brand => brand.slug === slug) || null;
+  // Decode URL-encoded slug to handle spaces and special characters
+  const decodedSlug = decodeURIComponent(slug);
+  return brands.find(brand => brand.slug === decodedSlug) || null;
 }
 
 export async function getCategory(slug: string): Promise<Category | null> {
@@ -101,7 +133,11 @@ export async function getCategoriesForBrand(brandSlug: string): Promise<Category
   const categorySet = new Set<string>();
   
   products.forEach(product => {
-    categorySet.add(product.category);
+    if (product.categoryHierarchy?.root) {
+      categorySet.add(product.categoryHierarchy.root);
+    } else {
+      categorySet.add(product.category);
+    }
   });
 
   const allCategories = await getCategories();
@@ -113,8 +149,168 @@ export async function getProductCountByCategory(): Promise<Record<string, number
   const counts: Record<string, number> = {};
   
   products.forEach(product => {
-    counts[product.category] = (counts[product.category] || 0) + 1;
+    // Count by hierarchical root category
+    if (product.categoryHierarchy?.root) {
+      counts[product.categoryHierarchy.root] = (counts[product.categoryHierarchy.root] || 0) + 1;
+    } else {
+      // Fallback to original category
+      counts[product.category] = (counts[product.category] || 0) + 1;
+    }
   });
   
   return counts;
+}
+
+export async function getSubcategoriesForCategory(categorySlug: string): Promise<string[]> {
+  try {
+    const hierarchicalCategories = await loadJSON<any[]>('category-hierarchy.json');
+    const category = hierarchicalCategories.find(cat => cat.slug === categorySlug);
+    return category?.subcategories?.map((sub: any) => sub.name) || [];
+  } catch {
+    return [];
+  }
+}
+
+export async function getCategoryHierarchy(): Promise<any[]> {
+  try {
+    return loadJSON<any[]>('category-hierarchy.json');
+  } catch {
+    return [];
+  }
+}
+
+// New filtering functions for enhanced UX
+export interface ProductFilters {
+  category?: string | null;
+  subcategory?: string | null;
+  brand?: string | null;
+  search?: string;
+  hasAR?: boolean;
+  hasDownloads?: boolean;
+  sortBy?: 'name' | 'brand' | 'category' | 'newest';
+  sortOrder?: 'asc' | 'desc';
+}
+
+export async function getFilteredProducts(filters: ProductFilters): Promise<Product[]> {
+  let products = await getProducts();
+
+  // Filter by category
+  if (filters.category) {
+    products = products.filter(product => 
+      product.categoryHierarchy?.root === filters.category
+    );
+  }
+
+  // Filter by subcategory
+  if (filters.subcategory) {
+    products = products.filter(product => 
+      product.category === filters.subcategory
+    );
+  }
+
+  // Filter by brand
+  if (filters.brand) {
+    products = products.filter(product => 
+      product.brand.toLowerCase() === filters.brand?.toLowerCase()
+    );
+  }
+
+  // Filter by search term
+  if (filters.search) {
+    const searchTerm = filters.search.toLowerCase();
+    products = products.filter(product =>
+      product.name.toLowerCase().includes(searchTerm) ||
+      product.description?.toLowerCase().includes(searchTerm) ||
+      product.brand.toLowerCase().includes(searchTerm) ||
+      product.category.toLowerCase().includes(searchTerm) ||
+      product.reference?.toLowerCase().includes(searchTerm)
+    );
+  }
+
+  // Filter by AR availability
+  if (filters.hasAR) {
+    products = products.filter(product => product.ar);
+  }
+
+  // Filter by downloads availability
+  if (filters.hasDownloads) {
+    products = products.filter(product => 
+      product.downloads && product.downloads.length > 0
+    );
+  }
+
+  // Sort products
+  if (filters.sortBy) {
+    products.sort((a, b) => {
+      let compareValue = 0;
+      
+      switch (filters.sortBy) {
+        case 'name':
+          compareValue = a.name.localeCompare(b.name);
+          break;
+        case 'brand':
+          compareValue = a.brand.localeCompare(b.brand);
+          break;
+        case 'category':
+          compareValue = a.category.localeCompare(b.category);
+          break;
+        case 'newest':
+          compareValue = (b.id || 0) - (a.id || 0);
+          break;
+        default:
+          compareValue = 0;
+      }
+      
+      return filters.sortOrder === 'desc' ? -compareValue : compareValue;
+    });
+  }
+
+  return products;
+}
+
+export async function getProductStats(): Promise<{
+  totalProducts: number;
+  totalBrands: number;
+  totalCategories: number;
+  productsWithAR: number;
+  productsWithDownloads: number;
+  brandDistribution: Array<{brand: string; count: number}>;
+  categoryDistribution: Array<{category: string; count: number}>;
+}> {
+  const products = await getProducts();
+  const brands = await getBrands();
+  const categories = await getCategories();
+
+  const brandCounts: Record<string, number> = {};
+  const categoryCounts: Record<string, number> = {};
+  
+  let arCount = 0;
+  let downloadCount = 0;
+
+  products.forEach(product => {
+    // Count by brand
+    brandCounts[product.brand] = (brandCounts[product.brand] || 0) + 1;
+    
+    // Count by root category
+    const rootCategory = product.categoryHierarchy?.root || product.category;
+    categoryCounts[rootCategory] = (categoryCounts[rootCategory] || 0) + 1;
+    
+    // Count special features
+    if (product.ar) arCount++;
+    if (product.downloads && product.downloads.length > 0) downloadCount++;
+  });
+
+  return {
+    totalProducts: products.length,
+    totalBrands: brands.length,
+    totalCategories: categories.length,
+    productsWithAR: arCount,
+    productsWithDownloads: downloadCount,
+    brandDistribution: Object.entries(brandCounts)
+      .map(([brand, count]) => ({ brand, count }))
+      .sort((a, b) => b.count - a.count),
+    categoryDistribution: Object.entries(categoryCounts)
+      .map(([category, count]) => ({ category, count }))
+      .sort((a, b) => b.count - a.count)
+  };
 }

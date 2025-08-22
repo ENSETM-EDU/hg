@@ -1,0 +1,362 @@
+[
+  {
+    "brand": "KALE",
+    "name": "252 R",
+    "category": "Serrures portes blindées",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "60 mm",
+      "finition": "SN",
+      "bout": "Carré",
+      "cylindre": "Avec"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "257",
+    "category": "Serrures portes blindées",
+    "attributes": {
+      "axe": "60 mm",
+      "finition": "SN",
+      "bout": "Carré",
+      "cylindre": "Avec"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "164 BNE",
+    "category": "Cylindres",
+    "attributes": {
+      "materiau": "Laiton massif",
+      "dimensions": "62 / 68 / 80 / 90 / 100 mm",
+      "finition": "BP / SN",
+      "ressorts": "Inox",
+      "goupilles": "Laiton",
+      "cles": "5"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "164 SNC",
+    "category": "Cylindres",
+    "attributes": {
+      "materiau": "Laiton massif",
+      "dimensions": "62 / 68 / 80 / 90 / 100 mm",
+      "finition": "BP / SN",
+      "cles": "5"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "164 CEC",
+    "category": "Cylindres",
+    "attributes": {
+      "materiau": "Laiton massif",
+      "dimensions": "62 / 68 / 80 / 90 / 100 mm",
+      "finition": "BP / SN",
+      "cles": "5"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "164 ASM",
+    "category": "Cylindres",
+    "attributes": {
+      "materiau": "Laiton massif",
+      "dimensions": "62 / 68 / 80 / 90 / 100 mm",
+      "finition": "BP / SN",
+      "cles": "5"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "500 K",
+    "category": "Accessoires de portes",
+    "attributes": {
+      "materiau": "Acier trempé",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "190",
+    "category": "Accessoires de portes",
+    "attributes": {
+      "materiau": "Acier",
+      "finition": "CP / SN / BP"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "157 35",
+    "category": "Serrures bois",
+    "attributes": {
+      "axe": "35 mm",
+      "finition": "BP / SN",
+      "bout": "Carré",
+      "cylindre": "Normal avec 3 clés"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "157 F",
+    "category": "Serrures bois",
+    "attributes": {
+      "axe": "35 mm",
+      "finition": "SN",
+      "bout": "Carré",
+      "cylindre": "Sans"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "189 3M",
+    "category": "Serrures bois",
+    "attributes": {
+      "axe": "45 mm",
+      "finition": "SN",
+      "bout": "Carré",
+      "cylindre": "Normal avec 3 clés"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "189 3MF",
+    "category": "Serrures bois",
+    "attributes": {
+      "axe": "45 mm",
+      "finition": "SN",
+      "bout": "Carré",
+      "cylindre": "Sans"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "2001",
+    "category": "Serrures",
+    "attributes": {
+      "dimension": "12 cm / 14 cm",
+      "sens": "Droite / Gauche",
+      "finition": "Noir",
+      "cles": "5 clés spéciales",
+      "accessoires": "Cache cylindre + vis"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "170 T",
+    "category": "Serrures",
+    "attributes": {
+      "cylindre": "Ø 23 mm",
+      "pene": "Longueur 110 mm",
+      "cles": "3 clés",
+      "finition": "Marron doré"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "356 T",
+    "category": "Serrures",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "50 mm",
+      "tetière": "Profilé en U, longueur 2 m",
+      "finition": "Galvanisé"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "196 50",
+    "category": "Serrures bois",
+    "attributes": {
+      "entre_axes": "70 mm",
+      "axe": "50 mm",
+      "finition": "SN / Noir",
+      "bout": "Carré / Rond",
+      "cylindre": "Sans"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "196 R",
+    "category": "Serrures bois",
+    "attributes": {
+      "entre_axes": "70 mm",
+      "axe": "40 mm",
+      "finition": "BP / SN",
+      "bout": "Carré",
+      "cylindre": "Avec ou Sans"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "152 3MR",
+    "category": "Serrures bois",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "45 mm",
+      "finition": "BP / SN",
+      "bout": "Carré",
+      "cylindre": "Normal avec 3 clés"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "152 50",
+    "category": "Serrures bois",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "50 mm",
+      "finition": "SN / Noir",
+      "bout": "Carré",
+      "cylindre": "Sans"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "201-20 / 201-40",
+    "category": "Serrures bois",
+    "attributes": {
+      "axe": "20 / 40 mm",
+      "finition": "SN",
+      "bout": "Carré",
+      "cylindre": "Cylindre normal avec 3 clés"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "201F 20",
+    "category": "Serrures bois",
+    "attributes": {
+      "axe": "20 mm",
+      "finition": "SN",
+      "bout": "Carré",
+      "cylindre": "Sans"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "232NN",
+    "category": "Serrures bois",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "50 mm",
+      "finition": "Noir / SN",
+      "bout": "Rond",
+      "cylindre": "Sans",
+      "note": "Magnétique"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "239NN",
+    "category": "Serrures bois",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "50 mm",
+      "finition": "Noir / SN",
+      "bout": "Rond",
+      "cylindre": "Sans",
+      "note": "Magnétique"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "153 U",
+    "category": "Serrures alu",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "25 / 30 / 35 mm",
+      "finition": "SN",
+      "cylindre": "60 mm pour axe 25, 70 mm pour axes 30 & 35",
+      "accessoires": "Cache cylindre + vis"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "155 U",
+    "category": "Serrures alu",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "25 / 30 / 35 mm",
+      "finition": "SN",
+      "cylindre": "60 mm pour axe 25, 70 mm pour axes 30 & 35",
+      "accessoires": "Cache cylindre + vis"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "253 U",
+    "category": "Serrures alu",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "25 / 30 / 35 mm",
+      "finition": "SN",
+      "cylindre": "60 mm pour axe 25, 70 mm pour axes 30 & 35",
+      "accessoires": "Cache cylindre + vis"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "KALE",
+    "name": "155 B",
+    "category": "Serrures alu",
+    "attributes": {
+      "finition": "SN",
+      "accessoires": "Gâche + vis"
+    },
+    "images": [],
+    "3d_images": []
+  }
+]

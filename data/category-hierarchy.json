@@ -1,0 +1,819 @@
+[
+  {
+    "slug": "serrures",
+    "name": "Serrures",
+    "icon": "/categories/serrures.svg",
+    "description": "Tous les produits de serrures",
+    "subcategories": [
+      {
+        "name": "Serrures porte en bois / sécurité",
+        "slug": "serruresporteenboisscurit"
+      },
+      {
+        "name": "Serrures bois",
+        "slug": "serruresbois"
+      },
+      {
+        "name": "Serrures bois / portes blindées",
+        "slug": "serruresboisportesblindes"
+      },
+      {
+        "name": "Serrures portes blindées",
+        "slug": "serruresportesblindes"
+      },
+      {
+        "name": "Serrures alu",
+        "slug": "serruresalu"
+      },
+      {
+        "name": "Serrures électroniques",
+        "slug": "serrureslectroniques"
+      },
+      {
+        "name": "Serrure électronique (connectée)",
+        "slug": "serrurelectroniqueconnecte"
+      },
+      {
+        "name": "Serrure électrique",
+        "slug": "serrurelectrique"
+      },
+      {
+        "name": "Serrures de meuble",
+        "slug": "serruresdemeuble"
+      },
+      {
+        "name": "Serrures multipoints",
+        "slug": "serruresmultipoints"
+      },
+      {
+        "name": "Serrures 3 points",
+        "slug": "serrures3points"
+      },
+      {
+        "name": "Serrures 3 et 5 points",
+        "slug": "serrures3et5points"
+      },
+      {
+        "name": "Serrures de sûreté (gâche tirage)",
+        "slug": "serruresdesretgchetirage"
+      },
+      {
+        "name": "Serrures garages / à tirage",
+        "slug": "serruresgaragestirage"
+      },
+      {
+        "name": "Serrures (ensemble)",
+        "slug": "serruresensemble"
+      },
+      {
+        "name": "Serrures (antipanique)",
+        "slug": "serruresantipanique"
+      },
+      {
+        "name": "Serrures (coupe-feu)",
+        "slug": "serrurescoupe-feu"
+      },
+      {
+        "name": "Serrure coupe-feu (antipanique)",
+        "slug": "serrurecoupe-feuantipanique"
+      },
+      {
+        "name": "Serrure encastrée pour antipanique",
+        "slug": "serrureencastrepourantipanique"
+      },
+      {
+        "name": "Serrure magnétique à larder",
+        "slug": "serruremagntiquelarder"
+      },
+      {
+        "name": "Serrures",
+        "slug": "serrures"
+      },
+      {
+        "name": "Verrous / Serrures magnétiques",
+        "slug": "verrousserruresmagntiques"
+      }
+    ]
+  },
+  {
+    "slug": "cylindres",
+    "name": "Cylindres",
+    "icon": "/categories/cylindres.svg",
+    "description": "Tous les produits de cylindres",
+    "subcategories": [
+      {
+        "name": "Cylindres",
+        "slug": "cylindres"
+      },
+      {
+        "name": "Cylindres à bouton",
+        "slug": "cylindresbouton"
+      },
+      {
+        "name": "Cylindres avec passes",
+        "slug": "cylindresavecpasses"
+      },
+      {
+        "name": "Cylindres haute sécurité",
+        "slug": "cylindreshautescurit"
+      },
+      {
+        "name": "Demi-cylindres",
+        "slug": "demi-cylindres"
+      },
+      {
+        "name": "Demi-cylindres à bouton",
+        "slug": "demi-cylindresbouton"
+      }
+    ]
+  },
+  {
+    "slug": "poignees",
+    "name": "Poignées",
+    "icon": "/categories/poignees.svg",
+    "description": "Tous les produits de poignées",
+    "subcategories": [
+      {
+        "name": "Poignées / Béquilles",
+        "slug": "poignesbquilles"
+      },
+      {
+        "name": "Poignées / Accessoires",
+        "slug": "poignesaccessoires"
+      },
+      {
+        "name": "Poignée palière",
+        "slug": "poignepalire"
+      },
+      {
+        "name": "Poignée plaque",
+        "slug": "poigneplaque"
+      },
+      {
+        "name": "Poignées plaques",
+        "slug": "poignesplaques"
+      },
+      {
+        "name": "Béquilles rosaces",
+        "slug": "bquillesrosaces"
+      },
+      {
+        "name": "Béquilles",
+        "slug": "bquilles"
+      },
+      {
+        "name": "Poignée externe pour antipanique avec cylindre",
+        "slug": "poigneexternepourantipaniqueaveccylindre"
+      },
+      {
+        "name": "Poignée externe pour antipanique avec demi-cylindre",
+        "slug": "poigneexternepourantipaniqueavecdemi-cylindre"
+      }
+    ]
+  },
+  {
+    "slug": "ferme-portes",
+    "name": "Ferme-portes",
+    "icon": "/categories/ferme-portes.svg",
+    "description": "Tous les produits de ferme-portes",
+    "subcategories": [
+      {
+        "name": "Fermes-portes",
+        "slug": "fermes-portes"
+      },
+      {
+        "name": "Fermes-portes encastrés",
+        "slug": "fermes-portesencastrs"
+      },
+      {
+        "name": "Pivots de sol hydraulique",
+        "slug": "pivotsdesolhydraulique"
+      },
+      {
+        "name": "Opérateur de porte battante",
+        "slug": "oprateurdeportebattante"
+      }
+    ]
+  },
+  {
+    "slug": "coulissant",
+    "name": "Systèmes coulissants",
+    "icon": "/categories/coulissant.svg",
+    "description": "Tous les produits de systèmes coulissants",
+    "subcategories": [
+      {
+        "name": "Système coulissant apparent soft close",
+        "slug": "systmecoulissantapparentsoftclose"
+      },
+      {
+        "name": "Système coulissant de placard apparent",
+        "slug": "systmecoulissantdeplacardapparent"
+      },
+      {
+        "name": "Système coulissant de porte apparent",
+        "slug": "systmecoulissantdeporteapparent"
+      },
+      {
+        "name": "Système coulissant de porte escamotable",
+        "slug": "systmecoulissantdeporteescamotable"
+      },
+      {
+        "name": "Système coulissant de porte",
+        "slug": "systmecoulissantdeporte"
+      },
+      {
+        "name": "Système coulissant pour meuble",
+        "slug": "systmecoulissantpourmeuble"
+      },
+      {
+        "name": "Système coulissant soft close",
+        "slug": "systmecoulissantsoftclose"
+      },
+      {
+        "name": "Système coulissant télescopique",
+        "slug": "systmecoulissanttlescopique"
+      },
+      {
+        "name": "Système de porte coulissante de placard",
+        "slug": "systmedeportecoulissantedeplacard"
+      },
+      {
+        "name": "Système de porte pliante",
+        "slug": "systmedeportepliante"
+      },
+      {
+        "name": "Système accordéon de porte",
+        "slug": "systmeaccordondeporte"
+      },
+      {
+        "name": "Accessoires pour système coulissant",
+        "slug": "accessoirespoursystmecoulissant"
+      }
+    ]
+  },
+  {
+    "slug": "automatismes",
+    "name": "Automatismes",
+    "icon": "/categories/automatismes.svg",
+    "description": "Tous les produits de automatismes",
+    "subcategories": [
+      {
+        "name": "Gâches électriques",
+        "slug": "gcheslectriques"
+      },
+      {
+        "name": "Ventouses électromagnétiques",
+        "slug": "ventouseslectromagntiques"
+      },
+      {
+        "name": "Ventouses électromagnétiques (arrêt de porte)",
+        "slug": "ventouseslectromagntiquesarrtdeporte"
+      },
+      {
+        "name": "Contrôle d'accès pour hôtels",
+        "slug": "contrledaccspourhtels"
+      },
+      {
+        "name": "Solutions smart",
+        "slug": "solutionssmart"
+      },
+      {
+        "name": "Caméras",
+        "slug": "camras"
+      },
+      {
+        "name": "Accessoires serrure électrique",
+        "slug": "accessoiresserrurelectrique"
+      }
+    ]
+  },
+  {
+    "slug": "accessoires",
+    "name": "Accessoires",
+    "icon": "/categories/accessoires.svg",
+    "description": "Tous les produits de accessoires",
+    "subcategories": [
+      {
+        "name": "Accessoires",
+        "slug": "accessoires"
+      },
+      {
+        "name": "Accessoires de serrurerie",
+        "slug": "accessoiresdeserrurerie"
+      },
+      {
+        "name": "Accessoires de portes",
+        "slug": "accessoiresdeportes"
+      },
+      {
+        "name": "Accessoires de fixation",
+        "slug": "accessoiresdefixation"
+      },
+      {
+        "name": "Accessoires pour antipanique",
+        "slug": "accessoirespourantipanique"
+      },
+      {
+        "name": "Charnières",
+        "slug": "charnires"
+      },
+      {
+        "name": "Charnières invisibles",
+        "slug": "charniresinvisibles"
+      },
+      {
+        "name": "Charnières invisibles hydrauliques 3D",
+        "slug": "charniresinvisibleshydrauliques3d"
+      },
+      {
+        "name": "Charnière de porte invisible",
+        "slug": "charniredeporteinvisible"
+      },
+      {
+        "name": "Charnières (certifiées coupe-feu)",
+        "slug": "charnirescertifiescoupe-feu"
+      },
+      {
+        "name": "Charnières verre",
+        "slug": "charniresverre"
+      },
+      {
+        "name": "Paumelles",
+        "slug": "paumelles"
+      },
+      {
+        "name": "Butoirs de portes",
+        "slug": "butoirsdeportes"
+      },
+      {
+        "name": "Butée / tampon",
+        "slug": "butetampon"
+      },
+      {
+        "name": "Judas de porte",
+        "slug": "judasdeporte"
+      },
+      {
+        "name": "Sélecteur de fermeture pour 2 vantaux",
+        "slug": "slecteurdefermeturepour2vantaux"
+      }
+    ]
+  },
+  {
+    "slug": "antipanique",
+    "name": "Antipanique",
+    "description": "Tous les produits de antipanique",
+    "subcategories": [
+      {
+        "name": "Antipanique en applique 2 points",
+        "slug": "antipaniqueenapplique2points"
+      },
+      {
+        "name": "Antipanique en applique mono-point",
+        "slug": "antipaniqueenappliquemono-point"
+      },
+      {
+        "name": "Antipanique en applique monopoint",
+        "slug": "antipaniqueenappliquemonopoint"
+      },
+      {
+        "name": "Antipanique pour serrure encastrée",
+        "slug": "antipaniquepourserrureencastre"
+      },
+      {
+        "name": "Antipanique Touch Bar (ligne TOP)",
+        "slug": "antipaniquetouchbarlignetop"
+      },
+      {
+        "name": "Antipanique Touch Bar",
+        "slug": "antipaniquetouchbar"
+      },
+      {
+        "name": "Antipaniques Gamme Global",
+        "slug": "antipaniquesgammeglobal"
+      },
+      {
+        "name": "Antipaniques Push Bar",
+        "slug": "antipaniquespushbar"
+      },
+      {
+        "name": "Module externe pour antipanique avec demi-cylindre",
+        "slug": "moduleexternepourantipaniqueavecdemi-cylindre"
+      }
+    ]
+  },
+  {
+    "slug": "cadenas",
+    "name": "Cadenas",
+    "description": "Tous les produits de cadenas",
+    "subcategories": [
+      {
+        "name": "Cadenas",
+        "slug": "cadenas"
+      },
+      {
+        "name": "Cadenas à combinaison",
+        "slug": "cadenascombinaison"
+      },
+      {
+        "name": "Cadenas anse blindée",
+        "slug": "cadenasanseblinde"
+      },
+      {
+        "name": "Cadenas anse protégée",
+        "slug": "cadenasanseprotge"
+      },
+      {
+        "name": "Cadenas avec alarme",
+        "slug": "cadenasavecalarme"
+      },
+      {
+        "name": "Cadenas biométrique",
+        "slug": "cadenasbiomtrique"
+      },
+      {
+        "name": "Cadenas câble",
+        "slug": "cadenascble"
+      },
+      {
+        "name": "Cadenas disque",
+        "slug": "cadenasdisque"
+      },
+      {
+        "name": "Cadenas TSA",
+        "slug": "cadenastsa"
+      },
+      {
+        "name": "Cadenas TSA (x2)",
+        "slug": "cadenastsax2"
+      },
+      {
+        "name": "Cadenas U",
+        "slug": "cadenasu"
+      }
+    ]
+  },
+  {
+    "slug": "quincaillerie-meuble",
+    "name": "Quincaillerie de meuble",
+    "description": "Tous les produits de quincaillerie de meuble",
+    "subcategories": [
+      {
+        "name": "Coulisses à billes",
+        "slug": "coulissesbilles"
+      },
+      {
+        "name": "Coulisses classiques",
+        "slug": "coulissesclassiques"
+      },
+      {
+        "name": "Coulisses tandem à sortie partielle",
+        "slug": "coulissestandemsortiepartielle"
+      },
+      {
+        "name": "Coulisses tandem hydrauliques à sortie totale",
+        "slug": "coulissestandemhydrauliquessortietotale"
+      },
+      {
+        "name": "Coulisses tandem hydrauliques",
+        "slug": "coulissestandemhydrauliques"
+      },
+      {
+        "name": "Tandem (coulisses tiroirs)",
+        "slug": "tandemcoulissestiroirs"
+      },
+      {
+        "name": "Tandem Box sortie totale 16 mm",
+        "slug": "tandemboxsortietotale16mm"
+      },
+      {
+        "name": "TandemBox slim (sortie totale 16 mm)",
+        "slug": "tandemboxslimsortietotale16mm"
+      },
+      {
+        "name": "TandemBox slim hydraulique (sortie totale 16 mm, verre latéral)",
+        "slug": "tandemboxslimhydrauliquesortietotale16mmverrelatral"
+      },
+      {
+        "name": "TandemBox slim hydraulique (sortie totale 16 mm)",
+        "slug": "tandemboxslimhydrauliquesortietotale16mm"
+      },
+      {
+        "name": "Tiroirs intérieurs",
+        "slug": "tiroirsintrieurs"
+      },
+      {
+        "name": "Tiroirs de rangement",
+        "slug": "tiroirsderangement"
+      },
+      {
+        "name": "Casiers tiroirs – sortie totale 16 mm",
+        "slug": "casierstiroirssortietotale16mm"
+      },
+      {
+        "name": "Mécanisme relevant soft close",
+        "slug": "mcanismerelevantsoftclose"
+      },
+      {
+        "name": "Mécanisme relevant double portes soft close",
+        "slug": "mcanismerelevantdoubleportessoftclose"
+      },
+      {
+        "name": "Vérin à gaz",
+        "slug": "vringaz"
+      },
+      {
+        "name": "Pied de meuble",
+        "slug": "pieddemeuble"
+      },
+      {
+        "name": "Pied réglable",
+        "slug": "piedrglable"
+      },
+      {
+        "name": "Vérin/pied réglable",
+        "slug": "vrinpiedrglable"
+      }
+    ]
+  },
+  {
+    "slug": "amenagement-interieur",
+    "name": "Aménagement intérieur",
+    "description": "Tous les produits de aménagement intérieur",
+    "subcategories": [
+      {
+        "name": "Coin cuisine (plateaux d'angle)",
+        "slug": "coincuisineplateauxdangle"
+      },
+      {
+        "name": "Coin cuisine (coulissant multi-niveaux)",
+        "slug": "coincuisinecoulissantmulti-niveaux"
+      },
+      {
+        "name": "Coins cuisine",
+        "slug": "coinscuisine"
+      },
+      {
+        "name": "Accessoires cuisine (muraux)",
+        "slug": "accessoirescuisinemuraux"
+      },
+      {
+        "name": "Accessoires évier",
+        "slug": "accessoiresvier"
+      },
+      {
+        "name": "Accessoires sous-évier",
+        "slug": "accessoiressous-vier"
+      },
+      {
+        "name": "Panier sous-évier / multi-usage",
+        "slug": "paniersous-viermulti-usage"
+      },
+      {
+        "name": "Égouttoir escamotable",
+        "slug": "gouttoirescamotable"
+      },
+      {
+        "name": "Module coulissant (bouteilles, etc.)",
+        "slug": "modulecoulissantbouteillesetc"
+      },
+      {
+        "name": "Porte épices",
+        "slug": "portepices"
+      },
+      {
+        "name": "Poubelles",
+        "slug": "poubelles"
+      },
+      {
+        "name": "Coin dressing (plateaux ronds)",
+        "slug": "coindressingplateauxronds"
+      },
+      {
+        "name": "Coin dressing (3 plateaux)",
+        "slug": "coindressing3plateaux"
+      },
+      {
+        "name": "Coin dressing (plateau + crochets)",
+        "slug": "coindressingplateaucrochets"
+      },
+      {
+        "name": "Accessoires dressing – miroir",
+        "slug": "accessoiresdressingmiroir"
+      },
+      {
+        "name": "Porte pantalon",
+        "slug": "portepantalon"
+      },
+      {
+        "name": "Porte chaussures vertical",
+        "slug": "portechaussuresvertical"
+      },
+      {
+        "name": "Porte chaussures (grille)",
+        "slug": "portechaussuresgrille"
+      },
+      {
+        "name": "Porte chaussures (plateau ajouré)",
+        "slug": "portechaussuresplateauajour"
+      },
+      {
+        "name": "Porte cravates",
+        "slug": "portecravates"
+      },
+      {
+        "name": "Porte vestes (abattant 15 kg)",
+        "slug": "portevestesabattant15kg"
+      },
+      {
+        "name": "Porte vestes et pantalon (carrousel bras)",
+        "slug": "portevestesetpantaloncarrouselbras"
+      },
+      {
+        "name": "Porte vestes et pantalon (anneau)",
+        "slug": "portevestesetpantalonanneau"
+      },
+      {
+        "name": "Crochet extractible / penderie",
+        "slug": "crochetextractiblependerie"
+      },
+      {
+        "name": "Porte bijoux (organisateur)",
+        "slug": "portebijouxorganisateur"
+      },
+      {
+        "name": "Plateaux à bijoux",
+        "slug": "plateauxbijoux"
+      },
+      {
+        "name": "Panier vêtements (fond plein)",
+        "slug": "paniervtementsfondplein"
+      },
+      {
+        "name": "Panier vêtements (grille)",
+        "slug": "paniervtementsgrille"
+      },
+      {
+        "name": "Tringle dressing (ronde) + accessoires",
+        "slug": "tringledressingrondeaccessoires"
+      },
+      {
+        "name": "Tringle dressing (rectangulaire) + accessoires",
+        "slug": "tringledressingrectangulaireaccessoires"
+      },
+      {
+        "name": "Tendeur pour porte dressing",
+        "slug": "tendeurpourportedressing"
+      },
+      {
+        "name": "Planche à repasser extractible",
+        "slug": "plancherepasserextractible"
+      },
+      {
+        "name": "Colonne",
+        "slug": "colonne"
+      },
+      {
+        "name": "Colonne (pivotante)",
+        "slug": "colonnepivotante"
+      },
+      {
+        "name": "Colonne coulissante",
+        "slug": "colonnecoulissante"
+      },
+      {
+        "name": "Étagères escamotables",
+        "slug": "tagresescamotables"
+      },
+      {
+        "name": "Tiroir de rangement (avec séparateurs)",
+        "slug": "tiroirderangementavecsparateurs"
+      },
+      {
+        "name": "Tiroir de rangement (panier)",
+        "slug": "tiroirderangementpanier"
+      },
+      {
+        "name": "Tiroir à compartiments",
+        "slug": "tiroircompartiments"
+      },
+      {
+        "name": "Tiroir (boîte)",
+        "slug": "tiroirbote"
+      },
+      {
+        "name": "Tiroir coffre (lecteur d'empreintes)",
+        "slug": "tiroircoffrelecteurdempreintes"
+      },
+      {
+        "name": "Module lumineux / accessoires",
+        "slug": "modulelumineuxaccessoires"
+      },
+      {
+        "name": "Accessoires tiroirs",
+        "slug": "accessoirestiroirs"
+      },
+      {
+        "name": "Accessoires – Intérieurs tiroirs",
+        "slug": "accessoiresintrieurstiroirs"
+      },
+      {
+        "name": "Accessoires – Tapis",
+        "slug": "accessoirestapis"
+      },
+      {
+        "name": "Accessoires Flowbox",
+        "slug": "accessoiresflowbox"
+      }
+    ]
+  },
+  {
+    "slug": "profiles-aluminium",
+    "name": "Profilés aluminium",
+    "description": "Tous les produits de profilés aluminium",
+    "subcategories": [
+      {
+        "name": "Profiles en Aluminium",
+        "slug": "profilesenaluminium"
+      },
+      {
+        "name": "Profilé",
+        "slug": "profil"
+      },
+      {
+        "name": "Bâton maréchal",
+        "slug": "btonmarchal"
+      }
+    ]
+  },
+  {
+    "slug": "coffres-forts",
+    "name": "Coffres forts",
+    "description": "Tous les produits de coffres forts",
+    "subcategories": [
+      {
+        "name": "Coffres forts",
+        "slug": "coffresforts"
+      },
+      {
+        "name": "Coffres forts coupe-feu",
+        "slug": "coffresfortscoupe-feu"
+      },
+      {
+        "name": "Coffres forts (armoire à fusils)",
+        "slug": "coffresfortsarmoirefusils"
+      },
+      {
+        "name": "Boîtes à clés murales",
+        "slug": "botesclsmurales"
+      },
+      {
+        "name": "Boîtes à monnaie / à clés",
+        "slug": "botesmonnaiecls"
+      },
+      {
+        "name": "Boîtes à monnaie à codes",
+        "slug": "botesmonnaiecodes"
+      }
+    ]
+  },
+  {
+    "slug": "autres",
+    "name": "Autres",
+    "description": "Tous les produits de autres",
+    "subcategories": [
+      {
+        "name": "Escabeaux",
+        "slug": "escabeaux"
+      },
+      {
+        "name": "Outils de gestion",
+        "slug": "outilsdegestion"
+      },
+      {
+        "name": "Tirettes",
+        "slug": "tirettes"
+      },
+      {
+        "name": "Tringle rideau / rail",
+        "slug": "tringlerideaurail"
+      },
+      {
+        "name": "Fitting",
+        "slug": "fitting"
+      },
+      {
+        "name": "Bouton de tirage cuvette",
+        "slug": "boutondetiragecuvette"
+      },
+      {
+        "name": "Poussoir",
+        "slug": "poussoir"
+      },
+      {
+        "name": "Verrous / Tirage",
+        "slug": "verroustirage"
+      }
+    ]
+  }
+]

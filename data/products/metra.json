@@ -1,0 +1,523 @@
+[
+  {
+    "brand": "METRA",
+    "name": "1501",
+    "category": "Porte pantalon",
+    "attributes": {
+      "caisson": "60 / 70 / 80 / 90 cm",
+      "dimensions": "564 x 460 x 71 mm / 664 x 460 x 71 mm / 764 x 460 x 71 mm / 864 x 460 x 71 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1515",
+    "category": "Porte pantalon",
+    "attributes": {
+      "caisson": "60 / 70 / 80 / 90 cm",
+      "dimensions": "564 x 460 x 175 mm / 664 x 460 x 175 mm / 764 x 460 x 175 mm / 864 x 460 x 175 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1003",
+    "category": "Porte pantalon",
+    "attributes": {
+      "caisson": "50 cm",
+      "dimensions": "340 x 455 x 140 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1002",
+    "category": "Porte pantalon",
+    "attributes": {
+      "caisson": "70 cm",
+      "dimensions": "630 x 455 x 115 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2311",
+    "category": "Coin cuisine (plateaux d’angle)",
+    "attributes": {
+      "caisson": "90–100 cm",
+      "dimensions": "865 x 495 x 600–750 mm",
+      "sens": "Droite / Gauche"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2402",
+    "category": "Accessoires cuisine (muraux)",
+    "attributes": {
+      "codes": {
+        "240201A": "1800 x 127 x 400 mm",
+        "240201B": "240 x 120 x 365 mm",
+        "240201C": "350 x 110 x 255 mm",
+        "240201D": "240 x 50 x 36 mm",
+        "240201E": "350 x 75 x 170 mm",
+        "240201F": "240 x 95 x 360 mm",
+        "240201G": "350 x 105 x 10 mm"
+      }
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2332",
+    "category": "Coin cuisine (coulissant multi-niveaux)",
+    "attributes": {
+      "caisson": "90–100 cm",
+      "dimensions": "608 x 455 x 584 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "Colonne (ensemble)",
+    "category": "Colonne",
+    "attributes": {
+      "20 cm": {
+        "238104": {
+          "niveaux": "4",
+          "dimensions": "145 x 461 x 1235 mm"
+        },
+        "238106": {
+          "niveaux": "6",
+          "dimensions": "145 x 461 x 1827 mm"
+        }
+      },
+      "30 cm": {
+        "251401": {
+          "niveaux": "4",
+          "dimensions": "250 x 495 x 1330 mm"
+        },
+        "251403": {
+          "niveaux": "6",
+          "dimensions": "250 x 495 x 1920 mm"
+        }
+      },
+      "40 cm": {
+        "254104": {
+          "niveaux": "4",
+          "dimensions": "346 x 495 x 1330 mm"
+        },
+        "254106": {
+          "niveaux": "6",
+          "dimensions": "346 x 495 x 1920 mm"
+        }
+      }
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2201",
+    "category": "Étagères escamotables",
+    "attributes": {
+      "caisson": "60 / 70 / 80 / 90 cm",
+      "dimensions": "564 x 280 x 560 mm / 664 x 280 x 560 mm / 764 x 280 x 560 mm / 864 x 280 x 560 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2524",
+    "category": "Colonne",
+    "attributes": {
+      "caisson": "45 / 60 cm",
+      "niveaux": "6",
+      "dimensions": "382 x 500 x 1828 mm / 532 x 500 x 1828 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2502",
+    "category": "Colonne (pivotante)",
+    "attributes": {
+      "caisson": "45 / 60 cm",
+      "dimensions": "390 x 500 x 1268 mm (4 niveaux) / 390 x 500 x 1860 mm (6 niveaux) / 540 x 500 x 1268 mm (4 niveaux) / 564 x 500 x 1860 mm (6 niveaux)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2207",
+    "category": "Égouttoir escamotable",
+    "attributes": {
+      "caisson": "60 / 70 / 80 / 90 cm",
+      "dimensions": "564 x 280 x 560 mm / 664 x 280 x 560 mm / 764 x 280 x 560 mm / 864 x 280 x 560 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2711",
+    "category": "Tiroir de rangement (avec séparateurs)",
+    "attributes": {
+      "caisson": "60 / 70 / 75 / 80 / 90 cm",
+      "dimensions": "564 x 472 x 169 mm / 664 x 472 x 169 mm / 714 x 472 x 169 mm / 764 x 472 x 169 mm / 864 x 472 x 169 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2712",
+    "category": "Tiroir de rangement (panier)",
+    "attributes": {
+      "caisson": "60 / 70 / 75 / 80 / 90 cm",
+      "dimensions": "564 x 472 x 169 mm / 664 x 472 x 169 mm / 714 x 472 x 169 mm / 764 x 472 x 169 mm / 864 x 472 x 169 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2362 / 2365",
+    "category": "Porte épices",
+    "attributes": {
+      "codes": {
+        "2365 (15 cm)": "108 x 461 x 565 mm",
+        "2362 (20 cm)": "158 x 461 x 581 mm",
+        "2362 (30 cm)": "258 x 461 x 581 mm"
+      }
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2821",
+    "category": "Panier sous-évier / multi-usage",
+    "attributes": {
+      "caisson": "30 / 35 / 40 / 45 cm",
+      "dimensions": "240 x 460 x 490 mm / 290 x 460 x 490 mm / 340 x 460 x 490 mm / 390 x 460 x 490 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "2131",
+    "category": "Module coulissant (bouteilles, etc.)",
+    "attributes": {
+      "caisson": "30 / 35 / 40 / 45 cm",
+      "dimensions": "264 x 470 x 580 mm / 314 x 470 x 580 mm / 364 x 470 x 580 mm / 414 x 470 x 580 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1607",
+    "category": "Accessoires dressing – miroir",
+    "attributes": {
+      "caisson": "35 cm",
+      "dimensions": "1000 x 350 mm / 1200 x 350 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1204",
+    "category": "Planche à repasser extractible",
+    "attributes": {
+      "caisson": "40 cm",
+      "dimensions": "295 x 430 x 140 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "122401",
+    "category": "Plateaux à bijoux",
+    "attributes": {
+      "caisson": "60–90 cm",
+      "dimensions": "500–800 x 410 x 60 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1227",
+    "category": "Tiroir coffre (lecteur d’empreintes)",
+    "attributes": {
+      "caisson": "50 / 60 / 80 cm",
+      "dimensions": "464 x 400 x 150 mm / 564 x 400 x 150 mm / 764 x 400 x 150 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1228",
+    "category": "Module lumineux / accessoires",
+    "attributes": {
+      "caisson": "80 / 90 cm",
+      "dimensions": "760 x 425 x 140 mm / 860 x 425 x 140 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1215",
+    "category": "Tiroir à compartiments",
+    "attributes": {
+      "caisson": "60 / 70 / 80 / 90 cm",
+      "dimensions": "560 x 425 x 140 mm / 660 x 425 x 140 mm / 760 x 425 x 140 mm / 860 x 425 x 140 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1217",
+    "category": "Tiroir (boîte)",
+    "attributes": {
+      "dimensions": "285 x 425 x 160 mm / 385 x 425 x 160 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1208",
+    "category": "Porte chaussures vertical",
+    "attributes": {
+      "caisson": "80 cm",
+      "niveaux": "6 / 12",
+      "dimensions": "700 x 360 x 1070–1270 mm (6 niveaux) / 700 x 360 x 1910–2110 mm (12 niveaux)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "131001",
+    "category": "Porte cravates",
+    "attributes": {
+      "dimensions": "100 x 430 x 80 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "120904",
+    "category": "Coin dressing (plateaux ronds)",
+    "attributes": {
+      "caisson": "80 cm",
+      "dimensions": "700 x 700 x 900–1100 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "120903",
+    "category": "Coin dressing (plateaux ronds)",
+    "attributes": {
+      "caisson": "80 cm",
+      "dimensions": "700 x 700 x 900–1100 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "120902",
+    "category": "Coin dressing (3 plateaux)",
+    "attributes": {
+      "caisson": "80 cm",
+      "dimensions": "720 x 720 x 1900–2100 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "120901",
+    "category": "Coin dressing (plateau + crochets)",
+    "attributes": {
+      "caisson": "80 cm",
+      "dimensions": "720 x 720 x 1900–2100 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1707 ROND",
+    "category": "Tringle dressing (ronde) + accessoires",
+    "attributes": {
+      "codes": {
+        "1707 (barre)": "3000 x 12 x 30 mm",
+        "170701 (support)": "22 x 15 x 78 mm",
+        "170702 (embout)": "22 x 15 x 78 mm"
+      }
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1701 REC",
+    "category": "Tringle dressing (rectangulaire) + accessoires",
+    "attributes": {
+      "codes": {
+        "1701 (barre)": "3000 x 12 x 30 mm",
+        "170103 (support)": "22 x 15 x 78 mm",
+        "170104 (embout)": "22 x 15 x 78 mm"
+      }
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1706 REC",
+    "category": "Tringle dressing (rectangulaire) + accessoires",
+    "attributes": {
+      "codes": {
+        "1706 (barre)": "3000 x 12 x 30 mm",
+        "170605 (support/embout)": "22 x 15 x 78 mm"
+      }
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1505",
+    "category": "Porte chaussures (grille)",
+    "attributes": {
+      "caisson": "60 / 70 / 80 / 90 cm",
+      "dimensions": "564 x 460 x 170 mm / 664 x 460 x 170 mm / 764 x 460 x 170 mm / 864 x 460 x 170 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1506",
+    "category": "Porte chaussures (plateau ajouré)",
+    "attributes": {
+      "caisson": "60 / 70 / 80 / 90 cm",
+      "dimensions": "564 x 465 x 175 mm / 664 x 465 x 175 mm / 764 x 465 x 175 mm / 864 x 465 x 175 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1205",
+    "category": "Porte vestes (abattant 15 kg)",
+    "attributes": {
+      "caisson": "45–69 / 69–92 / 92–124 cm",
+      "dimensions": "450–590 x 140 x 820 mm / 690–920 x 140 x 820 mm / 920–1240 x 140 x 820 mm",
+      "charge": "15 kg"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "120906",
+    "category": "Porte vestes et pantalon (carrousel bras)",
+    "attributes": {
+      "caisson": "80 cm",
+      "dimensions": "720 x 720 x 125 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1004",
+    "category": "Crochet extractible / penderie",
+    "attributes": {
+      "caisson": "50 cm",
+      "dimensions": "115 x 455 x 115 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "120905",
+    "category": "Porte vestes et pantalon (anneau)",
+    "attributes": {
+      "caisson": "80 cm",
+      "dimensions": "525 x 525 x 125 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1507",
+    "category": "Porte bijoux (organisateur)",
+    "attributes": {
+      "caisson": "60 / 70 / 80 / 90 cm",
+      "dimensions": "564 x 460 x 71 mm / 664 x 460 x 71 mm / 764 x 460 x 71 mm / 864 x 460 x 71 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1520",
+    "category": "Porte bijoux (organisateur)",
+    "attributes": {
+      "caisson": "60 / 70 / 80 / 90 cm",
+      "dimensions": "564 x 460 x 71 mm / 664 x 460 x 71 mm / 764 x 460 x 71 mm / 864 x 460 x 71 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1519",
+    "category": "Panier vêtements (fond plein)",
+    "attributes": {
+      "caisson": "60 / 70 / 80 / 90 cm",
+      "dimensions": "564 x 460 x 165 mm / 664 x 460 x 165 mm / 764 x 460 x 165 mm / 864 x 460 x 165 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "METRA",
+    "name": "1504",
+    "category": "Panier vêtements (grille)",
+    "attributes": {
+      "caisson": "60 / 70 / 80 / 90 cm",
+      "dimensions": "564 x 460 x 175 mm / 664 x 460 x 175 mm / 764 x 460 x 175 mm / 864 x 460 x 175 mm"
+    },
+    "images": [],
+    "3d_images": []
+  }
+]

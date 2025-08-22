@@ -1,7 +1,9 @@
 import { notFound } from 'next/navigation';
 import Image from 'next/image';
-import { getProduct, getBrand, getProducts } from '../../../../lib/data';
+import { getProduct, getBrand, getProducts, getBrands } from '../../../../lib/data';
+import type { Brand } from '../../../../types';
 import SpecsList from '../../../../components/SpecsList';
+import ProductAttributes from '../../../../components/ProductAttributes';
 import PdfLink from '../../../../components/PdfLink';
 import { Badge } from '../../../../components/ui/badge';
 import { Button } from '../../../../components/ui/button';
@@ -33,7 +35,9 @@ export async function generateMetadata({ params }: ProductPageProps): Promise<Me
     };
   }
 
-  const brand = await getBrand(product.brand);
+  // Get brand by finding the brand with matching name
+  const brands = await getBrands();
+  const brand = brands.find((b: Brand) => b.name === product.brand) || null;
 
   return {
     title: `${product.name} - ${brand?.name || 'HAVA'}`,
@@ -49,7 +53,9 @@ export default async function ProductPage({ params }: ProductPageProps) {
     notFound();
   }
 
-  const brand = await getBrand(product.brand);
+  // Get brand by finding the brand with matching name
+  const brands = await getBrands();
+  const brand = brands.find((b: Brand) => b.name === product.brand) || null;
 
   return (
     <div className="min-h-screen py-12">
@@ -153,10 +159,17 @@ export default async function ProductPage({ params }: ProductPageProps) {
           </div>
         </div>
 
-        {/* Specifications */}
-        {product.specs && Object.keys(product.specs).length > 0 && (
+        {/* Attributes */}
+        {(product.attributes && Object.keys(product.attributes).length > 0) && (
           <div className="mb-12">
-            <SpecsList specs={product.specs} />
+            <ProductAttributes attributes={product.attributes} />
+          </div>
+        )}
+
+        {/* Specifications */}
+        {(product.specs && Object.keys(product.specs).length > 0) && (
+          <div className="mb-12">
+            <SpecsList specs={product.specs} title="Spécifications techniques" />
           </div>
         )}
 

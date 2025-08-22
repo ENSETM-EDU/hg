@@ -1,0 +1,812 @@
+[
+  {
+    "brand": "JANUS",
+    "name": "CONCORDE S01",
+    "category": "Système de porte coulissante de placard",
+    "attributes": {
+      "capacité": "80 kg",
+      "épaisseur_panneau": "16–25 mm",
+      "frein": "En option",
+      "profils": [
+        "9008",
+        "9023"
+      ],
+      "code_article": "SDS 9001"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "CONCORDE S04",
+    "category": "Système de porte coulissante de placard",
+    "attributes": {
+      "capacité": "80 kg",
+      "épaisseur_panneau": "16–24 mm",
+      "frein": "Oui",
+      "3ème_porte": "En option",
+      "profils": [
+        "9016",
+        "9052"
+      ],
+      "code_article": "SDS 9602"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "STARGATE S02",
+    "category": "Système coulissant de porte",
+    "attributes": {
+      "capacité": "80 kg",
+      "épaisseur_panneau": "30–40 mm",
+      "frein": "Oui",
+      "profils": [
+        "6081",
+        "6080"
+      ],
+      "code_article": "SDS 6080"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "CHALLENGER 01",
+    "category": "Système coulissant de porte escamotable",
+    "attributes": {
+      "capacité": "30 kg",
+      "épaisseur_panneau": "16–18 mm",
+      "frein": "Non",
+      "largeur_ventail": "min 300 mm, max 600 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "STARGATE 03",
+    "category": "Système coulissant de porte",
+    "attributes": {
+      "capacité": "80 kg",
+      "épaisseur_panneau": "30–40 mm",
+      "frein": "Non",
+      "profil": "6001",
+      "code_article": "SDS 6000"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "STARGATE 01",
+    "category": "Système coulissant de porte",
+    "attributes": {
+      "capacité": "80 kg",
+      "épaisseur_panneau": "30–40 mm",
+      "frein": "—",
+      "profils": [
+        "9053",
+        "9054"
+      ],
+      "code_article": "SDS 9051"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "FALCON 01",
+    "category": "Système de porte pliante",
+    "attributes": {
+      "capacité": "50 kg",
+      "épaisseur_panneau": "16–25 mm",
+      "frein": "Non",
+      "profil": "9700",
+      "sens": "Droite / Gauche",
+      "code_article": "SDS 9700"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "SDS 7000",
+    "category": "Système coulissant de porte apparent",
+    "attributes": {
+      "capacité": "120 kg",
+      "épaisseur_panneau": "30–40 mm",
+      "frein": "Oui"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "ZEPLIN S01",
+    "category": "Système de porte coulissante de placard",
+    "attributes": {
+      "capacité": "60 kg",
+      "épaisseur_panneau": "16–22 mm",
+      "frein": "En option",
+      "profils": [
+        "9056",
+        "9055"
+      ],
+      "code_article": "SDS 9300"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "ZEPLIN S04",
+    "category": "Système coulissant de placard apparent",
+    "attributes": {
+      "capacité": "100 kg",
+      "épaisseur_panneau": "16–40 mm",
+      "frein": "Oui",
+      "3ème_porte": "En option",
+      "profils": [
+        "9502",
+        "9501"
+      ],
+      "code_article": "SDS 9500"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "CONCORDE X01",
+    "category": "Système de porte coulissante de placard",
+    "attributes": {
+      "capacité": "80 kg",
+      "épaisseur_panneau": "16–50 mm",
+      "frein": "Oui",
+      "profils": [
+        "9161",
+        "9014"
+      ],
+      "code_article": "SDS 9100"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "CONCORDE M01",
+    "category": "Système coulissant pour meuble",
+    "attributes": {
+      "capacité": "30 kg",
+      "épaisseur_panneau": "16–30 mm",
+      "frein": "Non",
+      "profils": [
+        "9035 (PVC)",
+        "9027 (ALU)"
+      ],
+      "code_article": "SDS 9030"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "CONCORDE B01",
+    "category": "Système de porte coulissante de placard",
+    "attributes": {
+      "capacité": "60 kg",
+      "épaisseur_panneau": "16–28 mm",
+      "frein": "Non",
+      "profil": "9014",
+      "code_article": "SDS 8080"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "CONCORDE SE06",
+    "category": "Système de porte coulissante de placard",
+    "attributes": {
+      "capacité": "50 kg",
+      "épaisseur_panneau": "16–24 mm",
+      "frein": "Oui",
+      "profils": [
+        "9220",
+        "9005",
+        "9015"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "Tendeur 1335 C",
+    "category": "Tendeur pour porte dressing",
+    "attributes": {},
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "Tendeur 1335 H",
+    "category": "Tendeur pour porte dressing",
+    "attributes": {},
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9000",
+    "category": "Équerre",
+    "attributes": {
+      "matériau": "Acier 1.20 mm",
+      "couleur": "Zingué"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "Équerre en L (série 8001–8004)",
+    "category": "Équerre",
+    "attributes": {
+      "matériau": "Acier",
+      "couleur": "Zingué",
+      "dimensions": [
+        "15×25×15 mm",
+        "15×35×35 mm",
+        "15×45×45 mm",
+        "15×55×55 mm"
+      ],
+      "références": [
+        "8001",
+        "8002",
+        "8003",
+        "8004"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "Équerre en L (série 8009–8012)",
+    "category": "Équerre",
+    "attributes": {
+      "matériau": "Acier",
+      "couleur": "Zingué",
+      "dimensions": [
+        "30×45×45 mm",
+        "40×30×30 mm",
+        "40×40×40 mm",
+        "40×50×50 mm"
+      ],
+      "références": [
+        "8009",
+        "8010",
+        "8011",
+        "8012"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "1005.20",
+    "category": "Équerre",
+    "attributes": {
+      "matériau": "Acier",
+      "couleur": "Zingué"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9005",
+    "category": "Insert fileté",
+    "attributes": {
+      "variantes": {
+        "9005": "M8 – 10×13",
+        "9005.2": "M6 – 8×13"
+      }
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9033",
+    "category": "Cheville",
+    "attributes": {
+      "matériau": "Acier (M6)",
+      "couleur": "Zingué"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9031",
+    "category": "Came/écrou",
+    "attributes": {
+      "matériau": "Zamak (18 mm)",
+      "couleur": "Nickelé"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9005.8",
+    "category": "Cheville plastique",
+    "attributes": {
+      "matériau": "Plastique (Ø8–11)",
+      "couleur": "Blanc"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9015",
+    "category": "Cheville plastique",
+    "attributes": {
+      "matériau": "Plastique",
+      "couleur": "Blanc"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "TIP-ON E",
+    "category": "Poussoir",
+    "attributes": {
+      "matériau": "Plastique",
+      "couleur": "Blanc"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "TIP-ON A",
+    "category": "Poussoir",
+    "attributes": {
+      "matériau": "Plastique",
+      "couleur": "Blanc"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "4008",
+    "category": "Plaque / support",
+    "attributes": {
+      "matériau": "Acier",
+      "couleur": "Zingué"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "Piston à gaz",
+    "category": "Vérin à gaz",
+    "attributes": {
+      "puissance": "60 / 80 / 100 / 120 Nm",
+      "couleur": "Gris / Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9040",
+    "category": "Vérin/pied réglable",
+    "attributes": {
+      "matériau": "Plastique M8 / M10",
+      "couleur": "Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9042",
+    "category": "Plaque",
+    "attributes": {
+      "matériau": "Acier",
+      "couleur": "Zingué"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "Piètement 60 (série 6092–6096)",
+    "category": "Pied de meuble",
+    "attributes": {
+      "matériau": "Acier Ø60",
+      "couleur": "Chrome",
+      "hauteurs": [
+        "61 cm",
+        "71 cm",
+        "81 cm",
+        "91 cm",
+        "101 cm"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "Piètement 40x40 (série 6141–6145)",
+    "category": "Pied de meuble",
+    "attributes": {
+      "matériau": "Acier 40×40",
+      "couleur": "Satiné",
+      "hauteurs": [
+        "6 cm",
+        "8 cm",
+        "10 cm",
+        "12 cm",
+        "15 cm"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "Piètement Ø51 (série 6051–6056)",
+    "category": "Pied de meuble",
+    "attributes": {
+      "matériau": "Acier Ø51",
+      "couleur": "Chrome",
+      "hauteurs": [
+        "6 cm",
+        "8 cm",
+        "10 cm",
+        "12 cm",
+        "15 cm",
+        "20 cm"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "6007",
+    "category": "Pied réglable",
+    "attributes": {
+      "matériau": "Plastique",
+      "couleur": "Noir",
+      "dimensions": "10 / 15 cm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "6016",
+    "category": "Clip de tube",
+    "attributes": {
+      "matériau": "Plastique",
+      "couleur": "Blanc"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "6001",
+    "category": "Butée / tampon",
+    "attributes": {
+      "matériau": "Plastique",
+      "couleur": "Transparent"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "2000",
+    "category": "Connecteur",
+    "attributes": {
+      "matériau": "Plastique",
+      "couleur": "Transparent"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "2002",
+    "category": "Connecteur",
+    "attributes": {
+      "matériau": "Plastique",
+      "couleur": "Transparent"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "2100",
+    "category": "Crémaillère / bande perforée",
+    "attributes": {
+      "matériau": "Plastique",
+      "couleur": "Transparent"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "2005",
+    "category": "Support zamak",
+    "attributes": {
+      "matériau": "Zamak",
+      "couleur": "Zingué"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "1006 MOYEN",
+    "category": "Équerre de fixation",
+    "attributes": {
+      "matériau": "Acier 1.20 mm / Plastique",
+      "couleur": "Blanc"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "2022",
+    "category": "Cales",
+    "attributes": {
+      "matériau": "Plastique",
+      "couleur": "Blanc / Marron"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9034",
+    "category": "Cheville",
+    "attributes": {
+      "dimension": "Ø8 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "7001 / 7002",
+    "category": "Tringle rideau / rail",
+    "attributes": {
+      "matériau": "Plastique / Aluminium",
+      "dimensions": [
+        "80 cm",
+        "100 cm"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "1009 GRAND",
+    "category": "Équerre / support",
+    "attributes": {
+      "matériau": "Acier 1.5 mm / Plastique",
+      "couleur": "Blanc"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "8000 MINI",
+    "category": "Équerre / support",
+    "attributes": {
+      "matériau": "Acier / Plastique",
+      "couleur": "Blanc"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "5005",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Plastique",
+      "couleur": "Transparent"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "5001",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Plastique",
+      "couleur": "Transparent",
+      "epaisseur": "22 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "5010",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Zamak",
+      "couleur": "Nickelé"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "5011",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Plastique",
+      "couleur": "Transparent"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "5002 MOYEN",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Plastique",
+      "couleur": "Transparent",
+      "epaisseur": "8 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "5003 MINI",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Plastique",
+      "couleur": "Transparent",
+      "epaisseur": "8 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "2021",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Plastique",
+      "couleur": "Blanc",
+      "versions": "C, Y"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9006",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Plastique",
+      "couleur": "Marron"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "5004",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Plastique",
+      "couleur": "Transparent"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "5006",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Plastique",
+      "couleur": "Transparent"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9026.21",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Acier",
+      "couleur": "Nickelé"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "SUPPORT CAISSON",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Plastique",
+      "couleur": "Transparent"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "5007",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Zamak",
+      "couleur": "Nickelé"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "5009",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Plastique",
+      "couleur": "Transparent / Blanc"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "CACHE VIS",
+    "category": "Fitting",
+    "attributes": {
+      "dimensions": "13 mm, 15 mm, 20 mm, 25 mm"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "JANUS",
+    "name": "9007",
+    "category": "Fitting",
+    "attributes": {
+      "materiau": "Acier",
+      "couleur": "Blanc"
+    },
+    "images": [],
+    "3d_images": []
+  }
+]

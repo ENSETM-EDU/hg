@@ -1,0 +1,168 @@
+[
+  {
+    "brand": "PROFILES",
+    "name": "Profiles Dressing",
+    "category": "Profiles en Aluminium",
+    "attributes": {
+      "versions": [
+        {
+          "code": "DRG01",
+          "dimension": "80 mm"
+        },
+        {
+          "code": "DRG02",
+          "dimension": "61.81 mm"
+        },
+        {
+          "code": "DRG10",
+          "dimension": "34.4 × 44.4 mm"
+        },
+        {
+          "code": "DRG10 ECO",
+          "dimension": "34.4 × 44.4 mm"
+        },
+        {
+          "code": "DRG10 U",
+          "dimension": "31 × 44.6 mm"
+        }
+      ],
+      "finition": [
+        "Anodisé",
+        "Noir",
+        "Bois"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "PROFILES",
+    "name": "Gola Cuisine",
+    "category": "Profiles en Aluminium",
+    "attributes": {
+      "versions": [
+        {
+          "code": "GOLA L",
+          "dimension": "57.9 × 32.6 × 12 mm"
+        },
+        {
+          "code": "GOLA U",
+          "dimension": "72.6 × 32.6 × 12 mm"
+        }
+      ],
+      "finition": [
+        "Anodisé",
+        "Noir",
+        "Doré"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "PROFILES",
+    "name": "Gola Cuisine à LED",
+    "category": "Profiles en Aluminium",
+    "attributes": {
+      "versions": [
+        {
+          "code": "GOLA LED H",
+          "dimension": "Schéma technique"
+        },
+        {
+          "code": "GOLA LED L",
+          "dimension": "Schéma technique"
+        },
+        {
+          "code": "GOLA LED U",
+          "dimension": "Schéma technique"
+        }
+      ],
+      "finition": [
+        "Anodisé",
+        "Noir",
+        "Doré"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "PROFILES",
+    "name": "Tubes Tringle Ovale",
+    "category": "Profiles en Aluminium",
+    "attributes": {
+      "versions": [
+        {
+          "code": "HAV004",
+          "dimension": "30 × 15 mm"
+        },
+        {
+          "code": "HAV004 ECO",
+          "dimension": "29 × 15.5 mm"
+        }
+      ],
+      "finition": [
+        "Anodisé",
+        "Noir"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "PROFILES",
+    "name": "Poignées intégrées de tirage",
+    "category": "Profiles en Aluminium",
+    "attributes": {
+      "versions": [
+        {
+          "code": "HAV005 L",
+          "dimension": "Profils techniques"
+        },
+        {
+          "code": "HAV005 INC",
+          "dimension": "Profils techniques"
+        },
+        {
+          "code": "HAV005",
+          "dimension": "50.2 mm"
+        }
+      ],
+      "finition": [
+        "Anodisé",
+        "Noir",
+        "Blanc",
+        "Gris"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "PROFILES",
+    "name": "Profiles Portes",
+    "category": "Profiles en Aluminium",
+    "attributes": {
+      "versions": [
+        {
+          "code": "HAV006",
+          "dimension": "44.6 mm"
+        },
+        {
+          "code": "HAV006 T",
+          "dimension": "44.6 × 37.65 mm"
+        }
+      ],
+      "finition": [
+        "Anodisé",
+        "Noir",
+        "Doré",
+        "Marron",
+        "Anthracite"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  }
+]

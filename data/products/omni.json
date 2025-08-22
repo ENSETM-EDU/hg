@@ -1,0 +1,138 @@
+[
+  {
+    "brand": "OMNI",
+    "name": "200 E",
+    "category": "Antipanique en applique mono-point",
+    "attributes": {
+      "longueur_barre": "1,20 m",
+      "couleur": "Noir / Gris",
+      "sens_ouverture": "Réversible",
+      "note": "Économique"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OMNI",
+    "name": "220 E",
+    "category": "Poignée externe pour antipanique avec cylindre",
+    "attributes": {
+      "couleur": "Gris",
+      "nombre_de_cles": "2",
+      "accessoires": "Tige carré 9x9 + vis",
+      "note": "Économique"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OMNI",
+    "name": "550 D",
+    "category": "Antipanique en applique monopoint",
+    "attributes": {
+      "longueur_barre": "1,20 m",
+      "couleur": "Noir/Rouge • Gris/Gris • Noir/Noir",
+      "sens_ouverture": "Réversible"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OMNI",
+    "name": "550 E",
+    "category": "Antipanique en applique 2 points",
+    "attributes": {
+      "longueur_barre": "1,20 m",
+      "longueur_tiges": "Supérieur 1,20 m / Inférieur 1,00 m",
+      "couleur": "Noir/Rouge • Gris/Gris • Noir/Noir",
+      "sens_ouverture": "Réversible"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OMNI",
+    "name": "600G",
+    "category": "Antipanique pour serrure encastrée",
+    "attributes": {
+      "longueur_barre": "1,20 m",
+      "couleur": "Noir/Rouge • Noir/Gris",
+      "sens_ouverture": "Réversible"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OMNI",
+    "name": "CF 60",
+    "category": "Serrure encastrée pour antipanique",
+    "attributes": {
+      "entre_axes": "72 mm",
+      "axe": "60 mm",
+      "finition": "SN",
+      "bout": "Rond"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OMNI",
+    "name": "55 M",
+    "category": "Module externe pour antipanique avec demi-cylindre",
+    "attributes": {
+      "couleur": "Noir / Gris",
+      "nombre_de_cles": "2"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OMNI",
+    "name": "RSM",
+    "category": "Sélecteur de fermeture pour 2 vantaux",
+    "attributes": {
+      "materiau": "Inox 304"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OMNI",
+    "name": "66 M / BRL55",
+    "category": "Poignée externe pour antipanique avec demi-cylindre",
+    "attributes": {
+      "entre_axes": "72 mm",
+      "couleur": "Noir",
+      "nombre_de_cles": "3",
+      "accessoires": "Tige carré 9x9 + vis"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OMNI",
+    "name": "66M INOX",
+    "category": "Poignée plaque",
+    "attributes": {
+      "entre_axes": "72 mm",
+      "materiau": "Inox 304",
+      "finition": "Brossé",
+      "accessoires": "Visserie et tige carré 8x8"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OMNI",
+    "name": "CF 50",
+    "category": "Serrure coupe-feu (antipanique)",
+    "attributes": {
+      "entre_axes": "72 mm",
+      "axe": "65 mm",
+      "bout": "Rond",
+      "finition": "Zinguée"
+    },
+    "images": [],
+    "3d_images": []
+  }
+]

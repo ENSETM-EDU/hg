@@ -1,0 +1,336 @@
+[
+  {
+    "brand": "NOBEL",
+    "name": "BERGAMA",
+    "category": "Bâton maréchal",
+    "attributes": {
+      "materiaux": "Inox 304",
+      "finitions": "Inox brossé 304 / Inox noir",
+      "types": [
+        {
+          "type": "Carré",
+          "diametre": "30 x 30 cm",
+          "longueurs": "40/60/80/100/120/140/180 cm"
+        },
+        {
+          "type": "Rond",
+          "diametre": "Ø 30 cm",
+          "longueurs": "40/60/80/100/120/140/180 cm"
+        },
+        {
+          "type": "Rectangulaire",
+          "diametre": "40 x 20 cm",
+          "longueurs": "40/60/80/100/120/140/180 cm"
+        }
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "DERME",
+    "category": "Bâton maréchal",
+    "attributes": {
+      "materiaux": "Inox 304",
+      "finitions": "Inox brossé 304 / Inox noir",
+      "types": [
+        {
+          "type": "Carré",
+          "diametre": "30 x 30 cm",
+          "longueurs": "40/60/80/100/120/140/180 cm"
+        },
+        {
+          "type": "Rond",
+          "diametre": "Ø 30 cm",
+          "longueurs": "40/60/80/100/120/140/180 cm"
+        },
+        {
+          "type": "Rectangulaire",
+          "diametre": "40 x 20 cm",
+          "longueurs": "40/60/80/100/120/140/180 cm"
+        }
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "MANYAS",
+    "category": "Bâton maréchal",
+    "attributes": {
+      "materiaux": "Inox 304",
+      "finitions": "Inox brossé 304 / Inox noir",
+      "types": [
+        {
+          "type": "Carré",
+          "diametre": "30 x 30 cm",
+          "longueurs": "40/60/80/100/120/140/180 cm"
+        },
+        {
+          "type": "Rond",
+          "diametre": "Ø 30 cm",
+          "longueurs": "40/60/80/100/120/140/180 cm"
+        },
+        {
+          "type": "Rectangulaire",
+          "diametre": "40 x 20 cm",
+          "longueurs": "40/60/80/100/120/140/180 cm"
+        }
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "BARTIN",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque Zamak / Béquille Zamak",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "SIMGE",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque Acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "HALFETI",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque Acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "KADIRLI",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque Acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "AVANTI",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque Acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "IREM",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque Acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "KOSELI",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque Acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "ALMAZ",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "AMASYA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "ERVA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs",
+      "variantes": [
+        "Finition foncée",
+        "Finition claire"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "BURSA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "CORUM",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "PENTA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Rosace Inox / Béquille Alu",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "AVANTI (rosace)",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Rosace Inox / Béquille Alu",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "BINGOL",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "CANAKKALE",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "PLANET",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Alu",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "SIMGE (rosace)",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Rosace Inox / Béquille Alu",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "BARTIN (rosace)",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "EGE",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "EZGI",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Inox",
+      "accessoires": "Platine de fixation",
+      "finition": "Noir / Inox brossé",
+      "fonctionnement": "Rotatif ou fixe"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "NOBEL",
+    "name": "TUANA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Inox",
+      "accessoires": "Platine de fixation",
+      "finition": "Noir / Inox brossé",
+      "fonctionnement": "Rotatif ou fixe"
+    },
+    "images": [],
+    "3d_images": []
+  }
+]

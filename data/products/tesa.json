@@ -1,0 +1,1030 @@
+[
+  {
+    "brand": "TESA",
+    "name": "4130",
+    "category": "Serrures porte en bois / sécurité",
+    "attributes": {
+      "entre_axes": "70 mm",
+      "axe": "40 / 50 mm",
+      "tetiere": "Bout carré / Rond",
+      "finition": "Inox / dorée"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "134",
+    "category": "Serrures porte en bois / sécurité",
+    "attributes": {
+      "entre_axes": "70 mm",
+      "axe": "40 / 50 mm",
+      "tetiere": "Bout carré / Rond",
+      "finition": "Inox / dorée"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "2036",
+    "category": "Serrures porte en bois / sécurité",
+    "attributes": {
+      "axe": "60 mm",
+      "tetiere": "Bout carré / Rond",
+      "finition": "Inox"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "2038",
+    "category": "Serrures porte en bois / sécurité",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "60 mm",
+      "tetiere": "Bout carré / Rond",
+      "finition": "Inox"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "4130 BLACK",
+    "category": "Serrures porte en bois / sécurité",
+    "attributes": {
+      "entre_axes": "70 mm",
+      "axe": "50 mm",
+      "tetiere": "Rond",
+      "finition": "Black"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "4030",
+    "category": "Serrures porte en bois / sécurité",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "50 / 60 / 70 mm",
+      "tetiere": "Bout carré / Rond",
+      "finition": "Inox",
+      "options": [
+        "Coupe-feu sur commande",
+        "Antipanique sur commande"
+      ]
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "134 U",
+    "category": "Serrures porte en bois / sécurité",
+    "attributes": {
+      "entre_axes": "70 mm",
+      "axe": "50 / 60 mm",
+      "tetiere": "Bout carré / Rond",
+      "finition": "Inox"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "R100",
+    "category": "Serrures porte en bois / sécurité",
+    "attributes": {
+      "entre_axes": "70 / 85 mm",
+      "axe": "50 / 60 mm",
+      "tetiere": "Bout carré / Rond",
+      "finition": "Inox / Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TLB 3 BOIS",
+    "category": "Serrures 3 et 5 points",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "50 / 60 mm",
+      "tetiere": "Bout carré en U",
+      "finition": "Inox / Noir",
+      "accessoires": "Gâche courte ou longue"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TLB 5F BOIS",
+    "category": "Serrures 3 et 5 points",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "50 / 60 mm",
+      "tetiere": "Bout carré en U",
+      "finition": "Inox / Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "4230 MÉTALLIQUE",
+    "category": "Serrures 3 et 5 points",
+    "attributes": {
+      "entre_axes": "85 mm",
+      "axe": "25 / 30 / 35 mm",
+      "tetiere": "Bout carré (en option)",
+      "finition": "Inox"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "T5",
+    "category": "Cylindres",
+    "attributes": {
+      "materiau": "Laiton",
+      "dimensions": "60 / 70 / 80 / 90 / 100 mm",
+      "finition": "SN / BP",
+      "cles": "3 clés"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "T60",
+    "category": "Cylindres",
+    "attributes": {
+      "materiau": "Laiton",
+      "dimensions": "60 / 70 / 80 / 90 / 100 / 120 mm",
+      "finition": "SN / BP",
+      "cles": "5 clés"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "ST6",
+    "category": "Cylindres",
+    "attributes": {
+      "materiau": "Laiton",
+      "dimensions": "60 / 70 / 80 / 90 / 100 / 120 mm",
+      "finition": "SN / BP",
+      "cles": "5 clés",
+      "note": "Clé brevetée (pictogramme)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "T70",
+    "category": "Cylindres",
+    "attributes": {
+      "materiau": "Laiton",
+      "dimensions": "60 / 70 / 80 / 90 / 100 / 120 mm",
+      "finition": "SN / BP",
+      "cles": "5 clés",
+      "note": "Clé brevetée (pictogramme)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TX80",
+    "category": "Cylindres",
+    "attributes": {
+      "materiau": "Laiton",
+      "dimensions": "60 / 70 / 80 / 90 / 100 / 120 mm",
+      "finition": "SN / BP",
+      "cles": "5 clés",
+      "note": "Double embrayage (pictogramme)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TK100",
+    "category": "Cylindres",
+    "attributes": {
+      "materiau": "Laiton",
+      "dimensions": "60 / 70 / 80 / 90 / 100 / 120 mm",
+      "finition": "SN / BP",
+      "cles": "5 clés",
+      "note": "Double embrayage (pictogramme)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TD5",
+    "category": "Cylindres avec passes",
+    "attributes": {
+      "materiau": "Laiton",
+      "dimensions": "60 / 70 / 80 / 90 / 100 / 120 mm",
+      "finition": "SN / BP",
+      "cles": "3 clés",
+      "note": "Clé brevetée"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TD60",
+    "category": "Cylindres avec passes",
+    "attributes": {
+      "materiau": "Laiton",
+      "dimensions": "60 / 70 / 80 / 90 / 100 / 120 mm",
+      "finition": "SN / BP",
+      "cles": "3 clés",
+      "note": "Clé brevetée"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CUBO",
+    "category": "Béquilles",
+    "attributes": {
+      "materiau": "Inox 304",
+      "finition": "Brossé",
+      "accessoires": "Visserie et tige carré 7x7 (6x6 pour WC)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "SENA",
+    "category": "Béquilles",
+    "attributes": {
+      "materiau": "Inox 304",
+      "finition": "Brossé",
+      "accessoires": "Visserie et tige carré 7x7 (6x6 pour WC)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "VECTOR",
+    "category": "Béquilles",
+    "attributes": {
+      "materiau": "Inox 304",
+      "finition": "Brossé",
+      "accessoires": "Visserie et tige carré 7x7 (6x6 pour WC)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TUNDRA",
+    "category": "Béquilles",
+    "attributes": {
+      "materiau": "Inox 304 / 316",
+      "finition": "Brossé",
+      "accessoires": "Visserie et tige carré 7x7 (6x6 pour WC)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "SENA PLAQUE",
+    "category": "Béquilles",
+    "attributes": {
+      "entre_axes": "70 / 72 / 85 mm",
+      "materiau": "Inox 304 / 316",
+      "finition": "Brossé",
+      "accessoires": "Visserie et tige carré 7x7 (6x6 pour WC)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "MARE",
+    "category": "Béquilles",
+    "attributes": {
+      "materiau": "Zamak",
+      "finition": "Nickelé, chromé / brillant ou mat",
+      "accessoires": "Visserie et tige carré 7x7"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "BISOC",
+    "category": "Charnières",
+    "attributes": {
+      "materiau": "Corps en Zamak / lames en Inox 304",
+      "finition": "Nickel brossé",
+      "nb_unites_recommandees": "3 pcs",
+      "dimension": "95 mm",
+      "poids_par_porte": "40 kg / 60 kg"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "BISCF CEM433IS",
+    "category": "Charnières (certifiées coupe-feu)",
+    "attributes": {
+      "materiau": "Inox 304",
+      "finition": "Brossé",
+      "accessoires": "Visserie"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TOPINOX20",
+    "category": "Butoirs de portes",
+    "attributes": {
+      "materiau": "Inox 304",
+      "diametre": "20 mm",
+      "fixation": "Sol"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TOPINOXRIS",
+    "category": "Butoirs de portes",
+    "attributes": {
+      "materiau": "Inox 304",
+      "diametre": "30 / 45 mm",
+      "fixation": "Sol"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TOPINOX45IS",
+    "category": "Butoirs de portes",
+    "attributes": {
+      "materiau": "Inox 304",
+      "diametre": "45 mm",
+      "fixation": "Sol"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TOPINOX4320IS",
+    "category": "Butoirs de portes",
+    "attributes": {
+      "materiau": "Inox 304",
+      "diametre": "19 mm",
+      "fixation": "Mural"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CT500",
+    "category": "Fermes-portes",
+    "attributes": {
+      "force": "4 (80 kg) – 3 (60 kg)",
+      "finition": "Argenté / Blanc / Noir",
+      "bras": "Articulé",
+      "option": "Frein (CT501)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CT1800",
+    "category": "Fermes-portes",
+    "attributes": {
+      "force": "3 (60 kg) / 4 (80 kg)",
+      "finition": "Argent / Noir",
+      "bras": "Articulé",
+      "option": "Frein (CT1801)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CT2300",
+    "category": "Fermes-portes",
+    "attributes": {
+      "force": "3 (60 kg)",
+      "finition": "Argent / Noir",
+      "bras": "Glissière",
+      "option": "Frein (MR 2300)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CT2500",
+    "category": "Fermes-portes",
+    "attributes": {
+      "force": "3 (60 kg) / 4 (80 kg)",
+      "finition": "Argent",
+      "bras": "Articulé",
+      "option": "Frein (CT 2501)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CT3000",
+    "category": "Fermes-portes",
+    "attributes": {
+      "force": "3 à 6 (jusqu’à 140 kg)",
+      "finition": "Argent",
+      "bras": "Articulé / Glissière",
+      "option": "Frein (MR 3000)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CT5700",
+    "category": "Fermes-portes",
+    "attributes": {
+      "force": "7 (jusqu’à 300 kg)",
+      "finition": "Argent",
+      "bras": "Glissière",
+      "option": "Frein (MR 3000)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TEX70",
+    "category": "Fermes-portes encastrés",
+    "attributes": {
+      "force": "3 (60 kg)",
+      "finition": "Argenté",
+      "bras": "Glissière",
+      "option": "Frein (MR 3000)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TEX24",
+    "category": "Fermes-portes encastrés",
+    "attributes": {
+      "force": "4 (80 kg)",
+      "finition": "Argenté",
+      "bras": "Glissière",
+      "option": "Frein (MR 3000)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TEX26",
+    "category": "Fermes-portes encastrés",
+    "attributes": {
+      "force": "5 (100 kg)",
+      "finition": "Argenté",
+      "bras": "Glissière",
+      "largeur_de_porte": "Jusqu’à 120 cm",
+      "option": "Frein (MR 3000)"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "1910",
+    "category": "Antipaniques Push Bar",
+    "attributes": {
+      "points_de_fermeture": "1",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "900 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Noir/rouge, Gris/Gris, Noir/vert"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "1930",
+    "category": "Antipaniques Push Bar",
+    "attributes": {
+      "points_de_fermeture": "2",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "900 mm",
+      "tiges": "2 tiges de 930 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Noir/rouge, Gris/Gris, Noir/vert"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "1970",
+    "category": "Antipaniques Push Bar",
+    "attributes": {
+      "points_de_fermeture": "1 (compatible serrure CF60)",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "900 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Noir/rouge, Gris/Gris, Noir/vert"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "GL1S",
+    "category": "Antipaniques Gamme Global",
+    "attributes": {
+      "points_de_fermeture": "1",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "900 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Noir/rouge, Gris/Gris, Noir/vert"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "GL2S",
+    "category": "Antipaniques Gamme Global",
+    "attributes": {
+      "points_de_fermeture": "2",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "900 mm",
+      "tiges": "2 tiges de 930 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Noir/rouge, Gris/Gris, Noir/vert"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "GL1E",
+    "category": "Antipaniques Gamme Global",
+    "attributes": {
+      "points_de_fermeture": "1 (compatible serrure CF60)",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "900 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Noir/rouge, Gris/Gris, Noir/vert"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "QUICK1S",
+    "category": "Antipanique Touch Bar",
+    "attributes": {
+      "points_de_fermeture": "1",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "900 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Noir/rouge, Gris/Gris, Noir/vert"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "QUICK20",
+    "category": "Antipanique Touch Bar",
+    "attributes": {
+      "points_de_fermeture": "2",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "900 mm",
+      "tiges": "2 tiges de 1090 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Noir/rouge, Gris/Gris, Noir/vert"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "QUICK1E",
+    "category": "Antipanique Touch Bar",
+    "attributes": {
+      "points_de_fermeture": "1 (compatible serrure CF60)",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "900 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Noir/rouge, Gris/Gris, Noir/vert"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TOP1",
+    "category": "Antipanique Touch Bar (ligne TOP)",
+    "attributes": {
+      "points_de_fermeture": "1",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "800 / 1000 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Vert/Gris, Gris/Gris, Inox/Inox"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TOP2",
+    "category": "Antipanique Touch Bar (ligne TOP)",
+    "attributes": {
+      "points_de_fermeture": "2",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "900 mm",
+      "tiges": "2 tiges de 1090 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Vert/Gris, Gris/Gris, Inox/Inox"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "TOP1 À MORTAISE",
+    "category": "Antipanique Touch Bar (ligne TOP)",
+    "attributes": {
+      "points_de_fermeture": "1 (compatible CF60)",
+      "certifie": "Coupe-feu",
+      "longueur_barre": "900 mm",
+      "pochette_accessoires": true,
+      "couleurs": "Noir/rouge, Gris/Gris, Noir/vert"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "MMODMBT5",
+    "category": "Accessoires pour antipanique",
+    "attributes": {
+      "description": "Poignée modulaire pour antipanique en applique",
+      "finitions": "Noire / Gris",
+      "accessoires": "Demi-cylindre 30*10 nickelé"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "S1912EXNE",
+    "category": "Accessoires pour antipanique",
+    "attributes": {
+      "description": "Poignée externe pour antipanique en applique",
+      "finitions": "Noire / Inox",
+      "accessoires": "Demi-cylindre 30*10 avec tige nickelé"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "SELTELCIER",
+    "category": "Accessoires pour antipanique",
+    "attributes": {
+      "description": "Sélecteur de fermeture",
+      "usage": "Idéal pour porte coupe-feu à 2 vantaux"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "16848000-970C",
+    "category": "Accessoires pour antipanique",
+    "attributes": {
+      "description": "Sélecteur de fermeture",
+      "usage": "Idéal pour porte coupe-feu à 2 vantaux"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CF-50",
+    "category": "Serrures (coupe-feu)",
+    "attributes": {
+      "description": "Serrure coupe-feu",
+      "entre_axes": "72 mm",
+      "axe": "65 mm",
+      "tetiere": "Bout rond",
+      "finition": "Zinguée"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CF-60 (Antipanique)",
+    "category": "Serrures (antipanique)",
+    "attributes": {
+      "entre_axes": "72 mm",
+      "axe": "65 mm",
+      "tetiere": "Bout rond",
+      "finition": "Zinguée"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CTSU80",
+    "category": "Pivots de sol hydraulique",
+    "attributes": {
+      "force": "3",
+      "largeur_de_porte_cm": "95",
+      "poids": "60 kg"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CTSU100",
+    "category": "Pivots de sol hydraulique",
+    "attributes": {
+      "force": "2/3/4",
+      "largeur_de_porte_cm": "85 / 95 / 110",
+      "poids": "100 kg"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CTSU300",
+    "category": "Pivots de sol hydraulique",
+    "attributes": {
+      "force": "3/5/6",
+      "largeur_de_porte_cm": "95 / 125 / 140",
+      "poids": "300 kg"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CTSU200",
+    "category": "Pivots de sol hydraulique",
+    "attributes": {
+      "force": "3/5/6",
+      "largeur_de_porte_cm": "95 / 125 / 140",
+      "poids": "300 kg"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "PICE150",
+    "category": "Pivots de sol hydraulique",
+    "attributes": {
+      "description": "Pivot de sol permettant le pivotement des portes battantes",
+      "charge_maximale": "150 kg"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "MA0115S0",
+    "category": "Pivots de sol hydraulique",
+    "attributes": {
+      "description": "Bras inférieur",
+      "charge_maximale": "300 kg"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "MA0008S0",
+    "category": "Pivots de sol hydraulique",
+    "attributes": {
+      "description": "Bras supérieur pour portes en bois",
+      "charge_maximale": "300 kg"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CERNODBUI",
+    "category": "Gâches électriques",
+    "attributes": {
+      "tetiere": "Inox 304",
+      "caracteristiques": [
+        "Symétrique",
+        "Réversible",
+        "Réglable 4 mm"
+      ],
+      "alimentation": "12 V"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CEM300SS0F",
+    "category": "Ventouses électromagnétiques",
+    "attributes": {
+      "cadre": "Aluminium",
+      "compatibilite": "Tous types de cadres de portes",
+      "reversibilite": true,
+      "securite": "Blocage en cas d'absence de courant",
+      "fonctionnement": "Silencieux",
+      "force": "300N / 300 Kg"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CEM40",
+    "category": "Ventouses électromagnétiques",
+    "attributes": {
+      "force_de_retention": "40 kg",
+      "alimentation": "24 V DC (1,6W)",
+      "dimensions": "L110 x H85 x L43 mm",
+      "couleur": "Blanc/gris",
+      "certification": "EN1155"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "CODE 1000",
+    "category": "Serrures électroniques",
+    "attributes": {
+      "batterie": "2 piles alcalines AAA",
+      "duree": "15 000 ouvertures",
+      "dimensions": "136 x 33 x 28 mm",
+      "finitions": "Gris / Noir",
+      "sens_ouverture": "Réversible G/D",
+      "note": "Recommandée pour les casiers"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "I-MAX",
+    "category": "Contrôle d'accès pour hôtels",
+    "attributes": {
+      "type": "Béquille électronique",
+      "authentication": "Badge, code, smartphone",
+      "cycles": "90 000 à 126 000",
+      "communication": "Compatible Openow",
+      "alimentation": "Pile",
+      "leds": "Rouge / Bleu / Vert",
+      "compatibilite": "Serrures Euro, ANSI, DIN, etc.",
+      "certification": "EN1906 Grade 4"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "I-VOLUTION",
+    "category": "Contrôle d'accès pour hôtels",
+    "attributes": {
+      "design": "Minimaliste",
+      "technologie": "Lecteur/écriture ou Wireless online",
+      "ouverture": "Smartphone, à distance (BLE)",
+      "securite": "Communications cryptées et sûres",
+      "controle": "Total Wireless online",
+      "finitions_poignees": "Grande variété",
+      "capteurs": [
+        "État de porte",
+        "Ouverture anormale",
+        "Intrusion"
+      ],
+      "ouverture_secours": "Cylindre mécanique intégré",
+      "journal": "Inscription ouverture cylindre de secours",
+      "application": "Compatible Openow"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "I-MINIMAL",
+    "category": "Contrôle d'accès pour hôtels",
+    "attributes": {
+      "type": "Module RFID minimaliste",
+      "coloris": "Noir / Blanc",
+      "alimentation": "Sans fil ou lecteur/écriture",
+      "autonomie": "80 000 / 105 000 ouvertures",
+      "capteurs": [
+        "Porte ouverte",
+        "Porte fermée",
+        "Intrusion",
+        "Utilisation mécanique"
+      ],
+      "communication": "Bluetooth, RFID, télécommande",
+      "compatible_bequilles": "DIN fixes",
+      "ouverture_secours": "Demi-cylindre mécanique",
+      "application": "Compatible Openow"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "Logiciel TESA Hôtel",
+    "category": "Outils de gestion",
+    "attributes": {
+      "description": "Plateforme unique de gestion des dispositifs",
+      "fonctions": [
+        "Gestion des permissions",
+        "Enregistrement des événements",
+        "Gestion en ligne/offline",
+        "Wireless"
+      ],
+      "support": "PC"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "i-coder",
+    "category": "Outils de gestion",
+    "attributes": {
+      "description": "Lire, enregistrer et supprimer les informations d'utilisateurs",
+      "interfaces": [
+        "BLE (Bluetooth Low Energy)",
+        "RFID MIFARE / DESFire",
+        "TCP/IP"
+      ],
+      "alimentation": "USB",
+      "connectivite": "Connexion au logiciel TESA Hôtel via USB"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "Programmateur Portatif",
+    "category": "Outils de gestion",
+    "attributes": {
+      "description": "Programmation offline des dispositifs TESA hôtel",
+      "liaison": "Connexion USB avec PC",
+      "logiciel": "TESA Hôtel"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "TESA",
+    "name": "Lecteur mural",
+    "category": "Outils de gestion",
+    "attributes": {
+      "description": "Lecteur encodeur mural TESA",
+      "usage": "Ouverture de portes en online"
+    },
+    "images": [],
+    "3d_images": []
+  }
+]

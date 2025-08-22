@@ -1,0 +1,880 @@
+[
+  {
+    "brand": "OZEN",
+    "name": "620",
+    "category": "Bouton de tirage cuvette",
+    "attributes": {
+      "dimensions": "96 • 128 • 160 mm",
+      "materiau": "Zamak",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "604",
+    "category": "Bouton de tirage cuvette",
+    "attributes": {
+      "dimensions": "32 mm",
+      "materiau": "Zamak",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "608",
+    "category": "Bouton de tirage cuvette",
+    "attributes": {
+      "dimensions": "32 • 96 mm",
+      "materiau": "Zamak",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "P0003",
+    "category": "Bouton de tirage cuvette",
+    "attributes": {
+      "materiau": "Zamak",
+      "finition": "Bronze"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "9123",
+    "category": "Bouton de tirage cuvette",
+    "attributes": {
+      "materiau": "Zamak",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "9159",
+    "category": "Bouton de tirage cuvette",
+    "attributes": {
+      "materiau": "Zamak",
+      "finition": "Bronze"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "1020 / 1021",
+    "category": "Bouton de tirage cuvette",
+    "attributes": {
+      "dimensions": "96 mm (1020) / 1021–192 mm (1021)",
+      "materiau": "Zamak",
+      "finition": "SN / Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "551",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "347",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "192 • 224 • 256 mm",
+      "materiau": "Aluminium",
+      "finition": "SN Black"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "591",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 224 • 320 mm",
+      "materiau": "Zamak",
+      "finition": "Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "612 (Noir)",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "594",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 192 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "334",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 192 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "550",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "SN / Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "567 (Noir)",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "Noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "335",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 192 • 224 mm",
+      "materiau": "Aluminium",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "551 (SN)",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "554",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "612 (SN)",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "591 (SN)",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 320 mm",
+      "materiau": "Zamak",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "565",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "567 (SN)",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "570",
+    "category": "Tirettes",
+    "attributes": {
+      "dimensions": "160 • 224 mm",
+      "materiau": "Zamak",
+      "finition": "AB"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "PIRAMIT",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "VENUS",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ZAMBAK ECO (Noir)",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ZAMBAK ECO (Chrome)",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "CASABLANCA",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ELIF",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "LUNA ECO",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "KIRLANGIC",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "BELLA (clair)",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "entre_axes": "70 mm / 85 mm",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "BELLA (noir)",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "entre_axes": "70 mm / 85 mm",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ZEY",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ARDA",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Visserie"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "PERA PULL GM (clair)",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "entre_axes": "70 mm / 85 mm",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "PERA PULL GM (noir)",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Plaque acier / Béquille Alu",
+      "entre_axes": "70 mm / 85 mm",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "HELEN",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Zamak",
+      "entre_axes": "70 mm / 85 mm",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "HELEN PALIERE",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Zamak",
+      "entre_axes": "70 mm / 85 mm",
+      "accessoires": "Visserie, tige carré et réducteurs",
+      "disponibilite": "Existe en noir"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "IMZA",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "VIVA",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ZEN D",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Aluminium / Zamak",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ZEN D BLACK",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Aluminium / Zamak",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "MILA",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Zamak",
+      "finition": "Antique / SN",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "SOTKA",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "LUNA",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Aluminium",
+      "entre_axes": "70 mm / 85 mm",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ZAMBAK",
+    "category": "Poignées plaques",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "KAIRAD",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ZEN D",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "CITY",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs",
+      "disponibilite": "Disponible en SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "IMZA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "REY",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "VICTORIA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "LUGO",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "MINIMAL",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ADEN",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "RANA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "KAM",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ZEN",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "FUTURA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "VUSLAT",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Inox 304",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "PALERMO",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Inox 304",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "TRIM",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ZAMBAK",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "KARO",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "PUNCH (moleté)",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "PUNCH (lisse)",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "PUNCH FUMÉ",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "BELLA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "LENA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "SILE",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "ZEY",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs",
+      "disponibilite": "Disponible en SN"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "PRIZMA",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "PIRAMIT",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "VADI",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Aluminium",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "POSH FUMÉ / NOIR",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  },
+  {
+    "brand": "OZEN",
+    "name": "POSH CHROME / NOIR",
+    "category": "Béquilles rosaces",
+    "attributes": {
+      "materiau": "Zamak",
+      "accessoires": "Rosaces, visserie, tige carré et réducteurs"
+    },
+    "images": [],
+    "3d_images": []
+  }
+]

@@ -10,6 +10,11 @@ export interface Category {
   slug: string;
   name: string;
   icon?: string;
+  description?: string;
+  subcategories?: Array<{
+    name: string;
+    slug: string;
+  }>;
 }
 
 export interface Download {
@@ -23,6 +28,7 @@ export interface AR {
 }
 
 export interface Product {
+  id?: number;
   slug: string;
   name: string;
   brand: string;
@@ -34,6 +40,13 @@ export interface Product {
   specs?: Record<string, string | number | boolean>;
   tags?: string[];
   ar?: AR;
+  attributes?: Record<string, any>;
+  "3d_images"?: string[];
+  categoryHierarchy?: {
+    root: string;
+    parent: string;
+    subcategory: string;
+  };
 }
 
 export interface Catalogs {
