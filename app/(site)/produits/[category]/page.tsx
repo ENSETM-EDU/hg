@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import { getCategory, getProductsByCategory, getBrands, getCategories } from '../../../../lib/data';
-import CategoryClientPage from '../../../../components/CategoryClientPage';
+import CategoryPageWrapper from '../../../../components/CategoryPageWrapper';
 import { Metadata } from 'next';
 
 interface CategoryPageProps {
@@ -46,7 +46,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
   }
 
   return (
-    <CategoryClientPage
+    <CategoryPageWrapper
       category={category}
       initialProducts={products}
       brands={brands}

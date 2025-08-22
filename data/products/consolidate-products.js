@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-// Read all products
-const allProducts = JSON.parse(fs.readFileSync('../all-products.json', 'utf8'));
+// Read all products from the consolidated file (since all-products.json was removed)
+const allProducts = JSON.parse(fs.readFileSync('../all-products-with-hierarchy.json', 'utf8'));
 
 // Extract all unique categories
 const allCategories = [...new Set(allProducts.map(p => p.category))].sort();
@@ -354,7 +354,7 @@ const stats = {
   }))
 };
 
-fs.writeFileSync('../product-statistics.json', JSON.stringify(stats, null, 2));
+// Removed product-statistics.json generation since it's not being used
 
 console.log('✅ Product consolidation completed!');
 console.log(`📊 Statistics:`);
@@ -365,4 +365,3 @@ console.log(`   - Subcategories: ${stats.totalSubcategories}`);
 console.log(`\n📁 Files created:`);
 console.log('   - all-products-with-hierarchy.json');
 console.log('   - category-hierarchy.json');
-console.log('   - product-statistics.json');

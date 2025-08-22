@@ -1,9 +1,0 @@
-[
-  { "slug": "poignees", "name": "Poignées", "icon": "/categories/poignees.svg" },
-  { "slug": "serrures", "name": "Serrures", "icon": "/categories/serrures.svg" },
-  { "slug": "coulissant", "name": "Systèmes coulissants", "icon": "/categories/coulissant.svg" },
-  { "slug": "cylindres", "name": "Cylindres", "icon": "/categories/cylindres.svg" },
-  { "slug": "ferme-portes", "name": "Ferme-portes", "icon": "/categories/ferme-portes.svg" },
-  { "slug": "automatismes", "name": "Automatismes", "icon": "/categories/automatismes.svg" },
-  { "slug": "accessoires", "name": "Accessoires", "icon": "/categories/accessoires.svg" }
-]

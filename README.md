@@ -81,14 +81,14 @@ All content is managed through JSON files in the `/data` directory:
 - `settings.json` - Site configuration and branding
 - `homepage.json` - Homepage content and featured items
 - `brands.json` - Brand information and logos
-- `categories.json` - Product categories (optional, auto-derived if missing)
-- `products.json` - Complete product catalog
+- `all-products-with-hierarchy.json` - Complete product catalog with category hierarchy
+- `category-hierarchy.json` - Product category structure
 - `catalogs.json` - PDF catalog links
 - `pages.json` - Static page content (about, contact)
 
 ### Adding New Products
 
-1. Add product entry to `data/products.json`
+1. Add product entry to `data/all-products-with-hierarchy.json`
 2. Place product images in `public/products/`
 3. Add documentation PDFs to `public/catalogs/`
 4. For AR products, add 3D models to `public/models/`
